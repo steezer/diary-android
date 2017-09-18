@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:apps="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.h928.view.Index"
+    >
+    <item
+        android:id="@+id/menu_action_search"
+        android:icon="@drawable/ic_search_light"
+        apps:actionViewClass="android.support.v7.widget.SearchView"
+        apps:showAsAction="ifRoom|collapseActionView"
+        android:visible="true"
+        android:title="@string/menu_action_search" />
+    <item
+        android:id="@+id/menu_action_edit"
+        android:icon="@drawable/ic_edit_light"
+        apps:showAsAction="ifRoom"
+        android:visible="false"
+        android:title="@string/menu_action_edit"/>
+    <item
+        android:id="@+id/menu_action_save"
+        android:icon="@drawable/ic_save_light"
+        apps:showAsAction="ifRoom"
+        android:visible="false"
+        android:title="@string/menu_action_save"/>
+    <item
+        android:id="@+id/menu_action_help"
+        android:icon="@drawable/ic_help_light"
+        apps:showAsAction="ifRoom"
+        android:visible="false"
+        android:title="@string/menu_action_help"/>
+</menu>

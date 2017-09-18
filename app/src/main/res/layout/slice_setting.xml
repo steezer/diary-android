@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+    tools:context="com.h928.view.Login"
+    tools:layout_editor_absoluteY="81dp"
+    tools:layout_editor_absoluteX="0dp">
+
+    <ImageView
+        android:id="@+id/user_avatar"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="30dp"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_account"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="8dp" />
+
+    <TextView
+        android:id="@+id/user_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:text="@string/account_login_tips"
+        android:textSize="22dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/user_avatar"
+        app:layout_constraintHorizontal_bias="0.501"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="8dp" />
+
+    <TextView
+        android:id="@+id/account_tips"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="4dp"
+        android:text="@string/account_login_help"
+        android:textSize="12dp"
+        app:layout_constraintHorizontal_bias="0.501"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/user_name"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="8dp" />
+
+    <LinearLayout
+        android:id="@+id/setting_items"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="60dp"
+        android:divider="@drawable/list_divider"
+        android:orientation="vertical"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:showDividers="middle"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/user_name"
+        app:layout_constraintVertical_bias="0.003">
+
+        <LinearLayout
+            android:id="@+id/setting_area"
+            style="@style/ListItem">
+
+            <TextView
+                android:id="@+id/title_setting_area"
+                style="@style/ListItemTitle"
+                android:text="@string/title_setting_area" />
+
+            <TextView
+                android:id="@+id/area_name"
+                style="@style/ListItemTitle"
+                android:gravity="right|center_vertical"
+                android:layout_weight="2"
+                android:text="@string/title_setting_area_tips"
+                android:textColor="@color/textColorTips" />
+
+            <ImageView
+                android:id="@+id/more_setting_area"
+                style="@style/ListItemMore"
+                android:contentDescription="@string/more_setting"
+                app:srcCompat="@drawable/ic_more" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/setting_sync"
+            style="@style/ListItem">
+
+            <Switch
+                android:id="@+id/switch_setting_sync"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/title_setting_sync" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/setting_logout"
+            style="@style/ListItem"
+            android:visibility="visible">
+
+            <TextView
+                android:id="@+id/title_setting_logout"
+                style="@style/ListItemTitle"
+                android:text="@string/title_setting_logout" />
+
+            <ImageView
+                android:id="@+id/more_setting_logout"
+                style="@style/ListItemMore"
+                android:contentDescription="@string/more_setting"
+                app:srcCompat="@drawable/ic_more" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/setting_fixed"
+            style="@style/ListItem"
+            android:visibility="visible" />
+
+
+    </LinearLayout>
+</android.support.constraint.ConstraintLayout>
+

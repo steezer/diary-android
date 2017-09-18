@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingBottom="20dp"
+    android:paddingLeft="20dp"
+    android:paddingRight="20dp"
+    android:paddingTop="10dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="horizontal"
+        android:paddingBottom="10dp"
+        android:paddingTop="10dp">
+
+        <TextView
+            android:id="@+id/diary_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/diary_title" />
+
+        <TextView
+            android:id="@+id/diary_weather"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/diary_weather"
+            android:textAlignment="center" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="horizontal"
+        android:paddingBottom="5dp"
+        android:paddingTop="10dp"
+        android:weightSum="1">
+
+        <EditText
+            android:id="@+id/diary_content"
+            style="@style/Input"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:ems="10"
+            android:gravity="top|left"
+            android:hint="@string/diary_content"
+            android:inputType="textMultiLine" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="horizontal"
+        android:paddingBottom="20dp"
+        android:paddingTop="5dp">
+
+        <EditText
+            android:id="@+id/diary_subtitle"
+            style="@style/Input"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:ems="10"
+            android:hint="@string/diary_subtitle"
+            android:inputType="textPersonName" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:paddingBottom="3dp"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:text="@string/diary_emote_tips"
+        android:textColor="@color/textColorTips" />
+
+
+    <GridLayout
+        android:id="@+id/diary_emotes"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:rowCount="2"
+        android:columnCount="5"
+        android:layout_weight="13.07">
+        <ImageView
+            android:id="@+id/diary_emote1"
+            style="@style/ListEmote"
+            android:background="@color/emoteSelected"
+            app:srcCompat="@drawable/face01_plain" />
+
+        <ImageView
+            android:id="@+id/diary_emote2"
+            style="@style/ListEmote"
+            app:srcCompat="@drawable/face02_smile" />
+
+        <ImageView
+            android:id="@+id/diary_emote3"
+            style="@style/ListEmote"
+            app:srcCompat="@drawable/face03_laughing" />
+
+        <ImageView
+            android:id="@+id/diary_emote4"
+            style="@style/ListEmote"
+            app:srcCompat="@drawable/face04_gloat" />
+
+        <ImageView
+            android:id="@+id/diary_emote5"
+            style="@style/ListEmote"
+            app:srcCompat="@drawable/face05_sad" />
+
+        <ImageView
+            android:id="@+id/diary_emote6"
+            style="@style/ListEmote"
+            app:srcCompat="@drawable/face06_crying" />
+
+        <ImageView
+            android:id="@+id/diary_emote7"
+            style="@style/ListEmote"
+            app:srcCompat="@drawable/face07_surprise" />
+
+        <ImageView
+            android:id="@+id/diary_emote8"
+            style="@style/ListEmote"
+            app:srcCompat="@drawable/face08_embarrassed" />
+
+        <ImageView
+            android:id="@+id/diary_emote9"
+            style="@style/ListEmote"
+            app:srcCompat="@drawable/face09_asleep" />
+
+        <ImageView
+            android:id="@+id/diary_emote10"
+            style="@style/ListEmote"
+            app:srcCompat="@drawable/face10_angry" />
+    </GridLayout>
+
+</LinearLayout>

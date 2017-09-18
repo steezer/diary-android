@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ba571e</color>
+    <color name="colorPrimaryDark">#030303</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="textColorPrimary">#333333</color>
+    <color name="textColorTips">#666666</color>
+    <color name="emoteSelected">#eeeeee</color>
+    <color name="searchBackground">#FFFFFF</color>
+    <color name="listDivider">#AAAAAA</color>
+
+    <!--外部工具-->
+    <color name="pickerTextColor">#FFFFFF</color>
+    <color name="pickerBackground">#ba571e</color>
+    <color name="pickerSelectColor">#ddFFFFFF</color>
+</resources>

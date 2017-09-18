@@ -1,0 +1,64 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@color/pickerBackground"
+    >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@color/pickerBackground">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="20dip"
+            android:text="@string/util_picker_area_title"
+            android:textColor="@color/pickerTextColor"
+            android:textSize="20sp" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal" >
+
+        <com.h928.util.picker.area.widget.WheelView
+            android:id="@+id/id_province"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/pickerSelectColor"
+            android:layout_weight="1" >
+        </com.h928.util.picker.area.widget.WheelView>
+
+        <com.h928.util.picker.area.widget.WheelView
+            android:id="@+id/id_city"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" >
+        </com.h928.util.picker.area.widget.WheelView>
+
+        <com.h928.util.picker.area.widget.WheelView
+            android:id="@+id/id_district"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" >
+        </com.h928.util.picker.area.widget.WheelView>
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btn_confirm"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="1dp"
+        android:background="#efefef"
+        android:gravity="center"
+        android:text="@string/util_picker_area_confirm"
+        android:textColor="@color/textColorTips" />
+
+</LinearLayout>

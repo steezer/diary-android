@@ -1,0 +1,3337 @@
+<root>
+  <province name="北京" code="01">
+    <city name="北京" code="0101">
+      <district name="北京" code="010101" />
+      <district name="海淀" code="010102" />
+      <district name="朝阳" code="010103" />
+      <district name="顺义" code="010104" />
+      <district name="怀柔" code="010105" />
+      <district name="通州" code="010106" />
+      <district name="昌平" code="010107" />
+      <district name="延庆" code="010108" />
+      <district name="丰台" code="010109" />
+      <district name="石景山" code="010110" />
+      <district name="大兴" code="010111" />
+      <district name="房山" code="010112" />
+      <district name="密云" code="010113" />
+      <district name="门头沟" code="010114" />
+      <district name="平谷" code="010115" />
+    </city>
+  </province>
+  <province name="上海" code="02">
+    <city name="上海" code="0201">
+      <district name="上海" code="020101" />
+      <district name="闵行" code="020102" />
+      <district name="宝山" code="020103" />
+      <district name="川沙" code="020104" />
+      <district name="嘉定" code="020105" />
+      <district name="南汇" code="020106" />
+      <district name="金山" code="020107" />
+      <district name="青浦" code="020108" />
+      <district name="松江" code="020109" />
+      <district name="奉贤" code="020110" />
+      <district name="崇明" code="020111" />
+      <district name="陈家镇" code="020112" />
+      <district name="引水船" code="020113" />
+    </city>
+  </province>
+  <province name="天津" code="03">
+    <city name="天津" code="0301">
+      <district name="天津" code="030101" />
+      <district name="武清" code="030102" />
+      <district name="宝坻" code="030103" />
+      <district name="东丽" code="030104" />
+      <district name="西青" code="030105" />
+      <district name="北辰" code="030106" />
+      <district name="宁河" code="030107" />
+      <district name="汉沽" code="030108" />
+      <district name="静海" code="030109" />
+      <district name="津南" code="030110" />
+      <district name="塘沽" code="030111" />
+      <district name="大港" code="030112" />
+      <district name="平台" code="030113" />
+      <district name="蓟县" code="030114" />
+    </city>
+  </province>
+  <province name="重庆" code="04">
+    <city name="重庆" code="0401">
+      <district name="重庆" code="040101" />
+      <district name="永川" code="040102" />
+      <district name="合川" code="040103" />
+      <district name="南川" code="040104" />
+      <district name="江津" code="040105" />
+      <district name="万盛" code="040106" />
+      <district name="渝北" code="040107" />
+      <district name="北碚" code="040108" />
+      <district name="巴南" code="040109" />
+      <district name="长寿" code="040110" />
+      <district name="黔江" code="040111" />
+      <district name="万州天城" code="040112" />
+      <district name="万州龙宝" code="040113" />
+      <district name="涪陵" code="040114" />
+      <district name="开县" code="040115" />
+      <district name="城口" code="040116" />
+      <district name="云阳" code="040117" />
+      <district name="巫溪" code="040118" />
+      <district name="奉节" code="040119" />
+      <district name="巫山" code="040120" />
+      <district name="潼南" code="040121" />
+      <district name="垫江" code="040122" />
+      <district name="梁平" code="040123" />
+      <district name="忠县" code="040124" />
+      <district name="石柱" code="040125" />
+      <district name="大足" code="040126" />
+      <district name="荣昌" code="040127" />
+      <district name="铜梁" code="040128" />
+      <district name="璧山" code="040129" />
+      <district name="丰都" code="040130" />
+      <district name="武隆" code="040131" />
+      <district name="彭水" code="040132" />
+      <district name="綦江" code="040133" />
+      <district name="酉阳" code="040134" />
+      <district name="金佛山" code="040135" />
+      <district name="秀山" code="040136" />
+    </city>
+  </province>
+  <province name="黑龙江" code="05">
+    <city name="哈尔滨" code="0501">
+      <district name="哈尔滨" code="050101" />
+      <district name="双城" code="050102" />
+      <district name="呼兰" code="050103" />
+      <district name="阿城" code="050104" />
+      <district name="宾县" code="050105" />
+      <district name="依兰" code="050106" />
+      <district name="巴彦" code="050107" />
+      <district name="通河" code="050108" />
+      <district name="方正" code="050109" />
+      <district name="延寿" code="050110" />
+      <district name="尚志" code="050111" />
+      <district name="五常" code="050112" />
+      <district name="木兰" code="050113" />
+    </city>
+    <city name="齐齐哈尔" code="0502">
+      <district name="齐齐哈尔" code="050201" />
+      <district name="讷河" code="050202" />
+      <district name="龙江" code="050203" />
+      <district name="甘南" code="050204" />
+      <district name="富裕" code="050205" />
+      <district name="依安" code="050206" />
+      <district name="拜泉" code="050207" />
+      <district name="克山" code="050208" />
+      <district name="克东" code="050209" />
+      <district name="泰来" code="050210" />
+    </city>
+    <city name="牡丹江" code="0503">
+      <district name="牡丹江" code="050301" />
+      <district name="海林" code="050302" />
+      <district name="穆棱" code="050303" />
+      <district name="林口" code="050304" />
+      <district name="绥芬河" code="050305" />
+      <district name="宁安" code="050306" />
+      <district name="东宁" code="050307" />
+    </city>
+    <city name="佳木斯" code="0504">
+      <district name="佳木斯" code="050401" />
+      <district name="汤原" code="050402" />
+      <district name="扶远" code="050403" />
+      <district name="桦川" code="050404" />
+      <district name="桦南" code="050405" />
+      <district name="同江" code="050406" />
+      <district name="富锦" code="050407" />
+    </city>
+    <city name="绥化" code="0505">
+      <district name="绥化" code="050501" />
+      <district name="肇东" code="050502" />
+      <district name="安达" code="050503" />
+      <district name="海伦" code="050504" />
+      <district name="明水" code="050505" />
+      <district name="望奎" code="050506" />
+      <district name="兰西" code="050507" />
+      <district name="青冈" code="050508" />
+      <district name="庆安" code="050509" />
+      <district name="绥棱" code="050510" />
+    </city>
+    <city name="黑河" code="0506">
+      <district name="黑河" code="050601" />
+      <district name="嫩江" code="050602" />
+      <district name="孙吴" code="050603" />
+      <district name="逊克" code="050604" />
+      <district name="五大连池" code="050605" />
+      <district name="北安" code="050606" />
+    </city>
+    <city name="大兴安岭" code="0507">
+      <district name="大兴安岭" code="050701" />
+      <district name="塔河" code="050702" />
+      <district name="漠河" code="050703" />
+      <district name="呼玛" code="050704" />
+      <district name="呼中" code="050705" />
+      <district name="新林" code="050706" />
+      <district name="阿木尔" code="050707" />
+      <district name="加格达奇" code="050708" />
+    </city>
+    <city name="伊春" code="0508">
+      <district name="伊春" code="050801" />
+      <district name="乌伊岭" code="050802" />
+      <district name="五营" code="050803" />
+      <district name="铁力" code="050804" />
+      <district name="嘉荫" code="050805" />
+    </city>
+    <city name="大庆" code="0509">
+      <district name="大庆" code="050901" />
+      <district name="林甸" code="050902" />
+      <district name="肇州" code="050903" />
+      <district name="肇源" code="050904" />
+    </city>
+    <city name="七台河" code="0510">
+      <district name="勃利" code="051001" />
+    </city>
+    <city name="鸡西" code="0511">
+      <district name="鸡西" code="051101" />
+      <district name="虎林" code="051102" />
+      <district name="密山" code="051103" />
+      <district name="鸡东" code="051104" />
+    </city>
+    <city name="鹤岗" code="0512">
+      <district name="鹤岗" code="051201" />
+      <district name="绥滨" code="051202" />
+      <district name="萝北" code="051203" />
+    </city>
+    <city name="双鸭山" code="0513">
+      <district name="双鸭山" code="051301" />
+      <district name="集贤" code="051302" />
+      <district name="宝清" code="051303" />
+      <district name="侥河" code="051304" />
+    </city>
+  </province>
+  <province name="吉林" code="06">
+    <city name="长春" code="0601">
+      <district name="长春" code="060101" />
+      <district name="农安" code="060102" />
+      <district name="德惠" code="060103" />
+      <district name="九台" code="060104" />
+      <district name="榆树" code="060105" />
+      <district name="双阳" code="060106" />
+    </city>
+    <city name="吉林" code="0602">
+      <district name="吉林" code="060201" />
+      <district name="舒兰" code="060202" />
+      <district name="永吉" code="060203" />
+      <district name="蛟河" code="060204" />
+      <district name="磐石" code="060205" />
+      <district name="桦甸" code="060206" />
+      <district name="烟筒山" code="060207" />
+    </city>
+    <city name="延吉" code="0603">
+      <district name="延吉" code="060301" />
+      <district name="敦化" code="060302" />
+      <district name="安图" code="060303" />
+      <district name="汪清" code="060304" />
+      <district name="和龙" code="060305" />
+      <district name="天池" code="060306" />
+      <district name="龙井" code="060307" />
+      <district name="珲春" code="060308" />
+      <district name="图们" code="060309" />
+      <district name="松江" code="060310" />
+      <district name="罗子沟" code="060311" />
+    </city>
+    <city name="四平" code="0604">
+      <district name="四平" code="060401" />
+      <district name="双辽" code="060402" />
+      <district name="梨树" code="060403" />
+      <district name="公主岭" code="060404" />
+      <district name="伊通" code="060405" />
+      <district name="孤家子" code="060406" />
+    </city>
+    <city name="通化" code="0605">
+      <district name="通化" code="060501" />
+      <district name="梅河口" code="060502" />
+      <district name="柳河" code="060503" />
+      <district name="辉南" code="060504" />
+      <district name="集安" code="060505" />
+      <district name="通化县" code="060506" />
+    </city>
+    <city name="白城" code="0606">
+      <district name="白城" code="060601" />
+      <district name="洮南" code="060602" />
+      <district name="大安" code="060603" />
+      <district name="镇赉" code="060604" />
+      <district name="通榆" code="060605" />
+    </city>
+    <city name="辽源" code="0607">
+      <district name="辽源" code="060701" />
+      <district name="东丰" code="060702" />
+    </city>
+    <city name="松原" code="0608">
+      <district name="松原" code="060801" />
+      <district name="乾安" code="060802" />
+      <district name="前郭" code="060803" />
+      <district name="长岭" code="060804" />
+      <district name="扶余" code="060805" />
+    </city>
+    <city name="白山" code="0609">
+      <district name="白山" code="060901" />
+      <district name="靖宇" code="060902" />
+      <district name="临江" code="060903" />
+      <district name="东岗" code="060904" />
+      <district name="长白" code="060905" />
+    </city>
+  </province>
+  <province name="辽宁" code="07">
+    <city name="沈阳" code="0701">
+      <district name="沈阳" code="070101" />
+      <district name="苏家屯" code="070102" />
+      <district name="辽中" code="070103" />
+      <district name="康平" code="070104" />
+      <district name="法库" code="070105" />
+      <district name="新民" code="070106" />
+      <district name="于洪" code="070107" />
+      <district name="新城子" code="070108" />
+    </city>
+    <city name="大连" code="0702">
+      <district name="大连" code="070201" />
+      <district name="瓦房店" code="070202" />
+      <district name="金州" code="070203" />
+      <district name="普兰店" code="070204" />
+      <district name="旅顺" code="070205" />
+      <district name="长海" code="070206" />
+      <district name="庄河" code="070207" />
+      <district name="皮口" code="070208" />
+      <district name="海洋岛" code="070209" />
+    </city>
+    <city name="鞍山" code="0703">
+      <district name="鞍山" code="070301" />
+      <district name="台安" code="070302" />
+      <district name="岫岩" code="070303" />
+      <district name="海城" code="070304" />
+    </city>
+    <city name="抚顺" code="0704">
+      <district name="抚顺" code="070401" />
+      <district name="清原" code="070402" />
+      <district name="章党" code="070403" />
+    </city>
+    <city name="本溪" code="0705">
+      <district name="本溪" code="070501" />
+      <district name="本溪县" code="070502" />
+      <district name="草河口" code="070503" />
+      <district name="桓仁" code="070504" />
+    </city>
+    <city name="丹东" code="0706">
+      <district name="丹东" code="070601" />
+      <district name="凤城" code="070602" />
+      <district name="宽甸" code="070603" />
+      <district name="东沟" code="070604" />
+    </city>
+    <city name="锦州" code="0707">
+      <district name="锦州" code="070701" />
+      <district name="凌海" code="070702" />
+      <district name="北宁" code="070703" />
+      <district name="义县" code="070704" />
+      <district name="黑山" code="070705" />
+    </city>
+    <city name="营口" code="0708">
+      <district name="营口" code="070801" />
+      <district name="大石桥" code="070802" />
+      <district name="盖州" code="070803" />
+      <district name="熊岳" code="070804" />
+    </city>
+    <city name="阜新" code="0709">
+      <district name="阜新" code="070901" />
+      <district name="彰武" code="070902" />
+    </city>
+    <city name="辽阳" code="0710">
+      <district name="辽阳" code="071001" />
+      <district name="辽阳县" code="071002" />
+      <district name="灯塔" code="071003" />
+    </city>
+    <city name="铁岭" code="0711">
+      <district name="铁岭" code="071101" />
+      <district name="开原" code="071102" />
+      <district name="昌图" code="071103" />
+      <district name="西丰" code="071104" />
+    </city>
+    <city name="朝阳" code="0712">
+      <district name="朝阳" code="071201" />
+      <district name="建平" code="071202" />
+      <district name="凌源" code="071203" />
+      <district name="喀左" code="071204" />
+      <district name="北票" code="071205" />
+      <district name="羊山" code="071206" />
+      <district name="建平县" code="071207" />
+    </city>
+    <city name="盘锦" code="0713">
+      <district name="盘锦" code="071301" />
+      <district name="大洼" code="071302" />
+      <district name="盘山" code="071303" />
+    </city>
+    <city name="葫芦岛" code="0714">
+      <district name="葫芦岛" code="071401" />
+      <district name="建昌" code="071402" />
+      <district name="绥中" code="071403" />
+      <district name="兴城" code="071404" />
+    </city>
+  </province>
+  <province name="内蒙古" code="08">
+    <city name="呼和浩特" code="0801">
+      <district name="呼和浩特" code="080101" />
+      <district name="土默特左旗" code="080102" />
+      <district name="托克托" code="080103" />
+      <district name="和林格尔" code="080104" />
+      <district name="清水河" code="080105" />
+      <district name="呼和浩特市郊区" code="080106" />
+      <district name="武川" code="080107" />
+    </city>
+    <city name="包头" code="0802">
+      <district name="包头" code="080201" />
+      <district name="白云鄂博" code="080202" />
+      <district name="满都拉" code="080203" />
+      <district name="土默特右旗" code="080204" />
+      <district name="固阳" code="080205" />
+      <district name="达尔罕茂明安联合旗" code="080206" />
+      <district name="石拐" code="080207" />
+    </city>
+    <city name="乌海" code="0803">
+      <district name="乌海" code="080301" />
+    </city>
+    <city name="乌兰察布" code="0804">
+      <district name="集宁" code="080401" />
+      <district name="卓资" code="080402" />
+      <district name="化德" code="080403" />
+      <district name="商都" code="080404" />
+      <district name="希拉穆仁" code="080405" />
+      <district name="兴和" code="080406" />
+      <district name="凉城" code="080407" />
+      <district name="察哈尔右翼前旗" code="080408" />
+      <district name="察哈尔右翼中旗" code="080409" />
+      <district name="察哈尔右翼后旗" code="080410" />
+      <district name="四子王旗" code="080411" />
+      <district name="丰镇" code="080412" />
+    </city>
+    <city name="通辽" code="0805">
+      <district name="通辽" code="080501" />
+      <district name="舍伯吐" code="080502" />
+      <district name="科尔沁左翼中旗" code="080503" />
+      <district name="科尔沁左翼后旗" code="080504" />
+      <district name="青龙山" code="080505" />
+      <district name="开鲁" code="080506" />
+      <district name="库伦旗" code="080507" />
+      <district name="奈曼旗" code="080508" />
+      <district name="扎鲁特旗" code="080509" />
+      <district name="高力板" code="080510" />
+      <district name="巴雅尔吐胡硕" code="080511" />
+      <district name="通辽钱家店" code="080512" />
+    </city>
+    <city name="赤峰" code="0806">
+      <district name="赤峰" code="080601" />
+      <district name="赤峰郊区站" code="080602" />
+      <district name="阿鲁科尔沁旗" code="080603" />
+      <district name="浩尔吐" code="080604" />
+      <district name="巴林左旗" code="080605" />
+      <district name="巴林右旗" code="080606" />
+      <district name="林西" code="080607" />
+      <district name="克什克腾旗" code="080608" />
+      <district name="翁牛特旗" code="080609" />
+      <district name="岗子" code="080610" />
+      <district name="喀喇沁旗" code="080611" />
+      <district name="八里罕" code="080612" />
+      <district name="宁城" code="080613" />
+      <district name="敖汉旗" code="080614" />
+      <district name="宝过图" code="080615" />
+    </city>
+    <city name="鄂尔多斯" code="0807">
+      <district name="鄂尔多斯" code="080701" />
+      <district name="达拉特旗" code="080702" />
+      <district name="准格尔旗" code="080703" />
+      <district name="鄂托克前旗" code="080704" />
+      <district name="河南" code="080705" />
+      <district name="伊克乌素" code="080706" />
+      <district name="鄂托克旗" code="080707" />
+      <district name="杭锦旗" code="080708" />
+      <district name="乌审旗" code="080709" />
+      <district name="伊金霍洛旗" code="080710" />
+      <district name="乌审召" code="080711" />
+    </city>
+    <city name="巴彦淖尔" code="0808">
+      <district name="临河" code="080801" />
+      <district name="五原" code="080802" />
+      <district name="磴口" code="080803" />
+      <district name="乌拉特前旗" code="080804" />
+      <district name="大佘太" code="080805" />
+      <district name="乌拉特中旗" code="080806" />
+      <district name="乌拉特后旗" code="080807" />
+      <district name="海力素" code="080808" />
+      <district name="那仁宝力格" code="080809" />
+      <district name="杭锦后旗" code="080810" />
+      <district name="巴盟农试站" code="080811" />
+    </city>
+    <city name="锡林郭勒盟" code="0809">
+      <district name="锡林浩特" code="080901" />
+      <district name="朝克乌拉" code="080902" />
+      <district name="二连浩特" code="080903" />
+      <district name="阿巴嘎旗" code="080904" />
+      <district name="伊和郭勒" code="080905" />
+      <district name="苏尼特左旗" code="080906" />
+      <district name="苏尼特右旗" code="080907" />
+      <district name="朱日和" code="080908" />
+      <district name="东乌珠穆沁旗" code="080909" />
+      <district name="西乌珠穆沁旗" code="080910" />
+      <district name="太仆寺旗" code="080911" />
+      <district name="镶黄旗" code="080912" />
+      <district name="正镶白旗" code="080913" />
+      <district name="正兰旗" code="080914" />
+      <district name="多伦" code="080915" />
+      <district name="博克图" code="080916" />
+      <district name="乌拉盖" code="080917" />
+      <district name="白日乌拉" code="080918" />
+      <district name="那日图" code="080919" />
+    </city>
+    <city name="呼伦贝尔" code="0810">
+      <district name="海拉尔" code="081001" />
+      <district name="小二沟" code="081002" />
+      <district name="阿荣旗" code="081003" />
+      <district name="莫力达瓦旗" code="081004" />
+      <district name="鄂伦春旗" code="081005" />
+      <district name="鄂温克旗" code="081006" />
+      <district name="陈巴尔虎旗" code="081007" />
+      <district name="新巴尔虎左旗" code="081008" />
+      <district name="新巴尔虎右旗" code="081009" />
+      <district name="满洲里" code="081010" />
+      <district name="牙克石" code="081011" />
+      <district name="扎兰屯" code="081012" />
+      <district name="额尔古纳" code="081013" />
+      <district name="根河" code="081014" />
+      <district name="图里河" code="081015" />
+    </city>
+    <city name="兴安盟" code="0811">
+      <district name="乌兰浩特" code="081101" />
+      <district name="阿尔山" code="081102" />
+      <district name="科尔沁右翼中旗" code="081103" />
+      <district name="胡尔勒" code="081104" />
+      <district name="扎赉特旗" code="081105" />
+      <district name="索伦" code="081106" />
+      <district name="突泉" code="081107" />
+    </city>
+    <city name="阿拉善盟" code="0812">
+      <district name="阿拉善左旗" code="081201" />
+      <district name="阿拉善右旗" code="081202" />
+      <district name="额济纳旗" code="081203" />
+      <district name="拐子湖" code="081204" />
+      <district name="吉兰太" code="081205" />
+      <district name="锡林高勒" code="081206" />
+      <district name="头道湖" code="081207" />
+      <district name="中泉子" code="081208" />
+      <district name="巴彦诺尔贡" code="081209" />
+    </city>
+  </province>
+  <province name="河北" code="09">
+    <city name="石家庄" code="0901">
+      <district name="石家庄" code="090101" />
+      <district name="井陉" code="090102" />
+      <district name="正定" code="090103" />
+      <district name="栾城" code="090104" />
+      <district name="行唐" code="090105" />
+      <district name="灵寿" code="090106" />
+      <district name="高邑" code="090107" />
+      <district name="深泽" code="090108" />
+      <district name="赞皇" code="090109" />
+      <district name="无极" code="090110" />
+      <district name="平山" code="090111" />
+      <district name="元氏" code="090112" />
+      <district name="赵县" code="090113" />
+      <district name="辛集" code="090114" />
+      <district name="藁城" code="090115" />
+      <district name="晋洲" code="090116" />
+      <district name="新乐" code="090117" />
+    </city>
+    <city name="保定" code="0902">
+      <district name="保定" code="090201" />
+      <district name="满城" code="090202" />
+      <district name="阜平" code="090203" />
+      <district name="徐水" code="090204" />
+      <district name="唐县" code="090205" />
+      <district name="高阳" code="090206" />
+      <district name="容城" code="090207" />
+      <district name="涞源" code="090208" />
+      <district name="望都" code="090209" />
+      <district name="安新" code="090210" />
+      <district name="易县" code="090211" />
+      <district name="涞水" code="090212" />
+      <district name="曲阳" code="090213" />
+      <district name="蠡县" code="090214" />
+      <district name="顺平" code="090215" />
+      <district name="雄县" code="090216" />
+      <district name="涿州" code="090217" />
+      <district name="定州" code="090218" />
+      <district name="安国" code="090219" />
+      <district name="高碑店" code="090220" />
+      <district name="清苑" code="090221" />
+    </city>
+    <city name="张家口" code="0903">
+      <district name="张家口" code="090301" />
+      <district name="宣化" code="090302" />
+      <district name="张北" code="090303" />
+      <district name="康保" code="090304" />
+      <district name="沽源" code="090305" />
+      <district name="尚义" code="090306" />
+      <district name="蔚县" code="090307" />
+      <district name="阳原" code="090308" />
+      <district name="怀安" code="090309" />
+      <district name="万全" code="090310" />
+      <district name="怀来" code="090311" />
+      <district name="涿鹿" code="090312" />
+      <district name="赤城" code="090313" />
+      <district name="崇礼" code="090314" />
+    </city>
+    <city name="承德" code="0904">
+      <district name="承德市" code="090401" />
+      <district name="承德" code="090402" />
+      <district name="承德县" code="090403" />
+      <district name="兴隆" code="090404" />
+      <district name="平泉" code="090405" />
+      <district name="滦平" code="090406" />
+      <district name="隆化" code="090407" />
+      <district name="丰宁" code="090408" />
+      <district name="宽城" code="090409" />
+      <district name="围场" code="090410" />
+      <district name="塞罕坎" code="090411" />
+    </city>
+    <city name="唐山" code="0905">
+      <district name="唐山" code="090501" />
+      <district name="丰南" code="090502" />
+      <district name="丰润" code="090503" />
+      <district name="滦县" code="090504" />
+      <district name="滦南" code="090505" />
+      <district name="乐亭" code="090506" />
+      <district name="迁西" code="090507" />
+      <district name="玉田" code="090508" />
+      <district name="唐海" code="090509" />
+      <district name="遵化" code="090510" />
+      <district name="迁安" code="090511" />
+      <district name="曹妃甸" code="090512" />
+    </city>
+    <city name="廊坊" code="0906">
+      <district name="廊坊" code="090601" />
+      <district name="固安" code="090602" />
+      <district name="永清" code="090603" />
+      <district name="香河" code="090604" />
+      <district name="大城" code="090605" />
+      <district name="文安" code="090606" />
+      <district name="大厂" code="090607" />
+      <district name="霸州" code="090608" />
+      <district name="三河" code="090609" />
+    </city>
+    <city name="沧州" code="0907">
+      <district name="沧州" code="090701" />
+      <district name="青县" code="090702" />
+      <district name="东光" code="090703" />
+      <district name="海兴" code="090704" />
+      <district name="盐山" code="090705" />
+      <district name="肃宁" code="090706" />
+      <district name="南皮" code="090707" />
+      <district name="吴桥" code="090708" />
+      <district name="献县" code="090709" />
+      <district name="孟村" code="090710" />
+      <district name="泊头" code="090711" />
+      <district name="任丘" code="090712" />
+      <district name="黄骅" code="090713" />
+      <district name="河间" code="090714" />
+    </city>
+    <city name="衡水" code="0908">
+      <district name="衡水" code="090801" />
+      <district name="枣强" code="090802" />
+      <district name="武邑" code="090803" />
+      <district name="武强" code="090804" />
+      <district name="饶阳" code="090805" />
+      <district name="安平" code="090806" />
+      <district name="故城" code="090807" />
+      <district name="景县" code="090808" />
+      <district name="阜城" code="090809" />
+      <district name="冀州" code="090810" />
+      <district name="深州" code="090811" />
+    </city>
+    <city name="邢台" code="0909">
+      <district name="邢台" code="090901" />
+      <district name="临城" code="090902" />
+      <district name="邢台县浆水" code="090903" />
+      <district name="内邱" code="090904" />
+      <district name="柏乡" code="090905" />
+      <district name="隆尧" code="090906" />
+      <district name="南和" code="090907" />
+      <district name="宁晋" code="090908" />
+      <district name="巨鹿" code="090909" />
+      <district name="新河" code="090910" />
+      <district name="广宗" code="090911" />
+      <district name="平乡" code="090912" />
+      <district name="威县" code="090913" />
+      <district name="清河" code="090914" />
+      <district name="临西" code="090915" />
+      <district name="南宫" code="090916" />
+      <district name="沙河" code="090917" />
+      <district name="任县" code="090918" />
+    </city>
+    <city name="邯郸" code="0910">
+      <district name="邯郸" code="091001" />
+      <district name="峰峰" code="091002" />
+      <district name="临漳" code="091003" />
+      <district name="成安" code="091004" />
+      <district name="大名" code="091005" />
+      <district name="涉县" code="091006" />
+      <district name="磁县" code="091007" />
+      <district name="肥乡" code="091008" />
+      <district name="永年" code="091009" />
+      <district name="邱县" code="091010" />
+      <district name="鸡泽" code="091011" />
+      <district name="广平" code="091012" />
+      <district name="馆陶" code="091013" />
+      <district name="魏县" code="091014" />
+      <district name="曲周" code="091015" />
+      <district name="武安" code="091016" />
+    </city>
+    <city name="秦皇岛" code="0911">
+      <district name="秦皇岛" code="091101" />
+      <district name="青龙" code="091102" />
+      <district name="昌黎" code="091103" />
+      <district name="抚宁" code="091104" />
+      <district name="卢龙" code="091105" />
+    </city>
+  </province>
+  <province name="山西" code="10">
+    <city name="太原" code="1001">
+      <district name="太原" code="100101" />
+      <district name="清徐" code="100102" />
+      <district name="阳曲" code="100103" />
+      <district name="娄烦" code="100104" />
+      <district name="太原古交区" code="100105" />
+      <district name="太原北郊" code="100106" />
+      <district name="太原南郊" code="100107" />
+    </city>
+    <city name="大同" code="1002">
+      <district name="大同" code="100201" />
+      <district name="阳高" code="100202" />
+      <district name="大同县" code="100203" />
+      <district name="天镇" code="100204" />
+      <district name="广灵" code="100205" />
+      <district name="灵邱" code="100206" />
+      <district name="浑源" code="100207" />
+      <district name="左云" code="100208" />
+    </city>
+    <city name="阳泉" code="1003">
+      <district name="阳泉" code="100301" />
+      <district name="盂县" code="100302" />
+      <district name="平定" code="100303" />
+    </city>
+    <city name="晋中" code="1004">
+      <district name="晋中" code="100401" />
+      <district name="榆次" code="100402" />
+      <district name="榆社" code="100403" />
+      <district name="左权" code="100404" />
+      <district name="和顺" code="100405" />
+      <district name="昔阳" code="100406" />
+      <district name="寿阳" code="100407" />
+      <district name="太谷" code="100408" />
+      <district name="祁县" code="100409" />
+      <district name="灵石" code="100410" />
+      <district name="介休" code="100411" />
+      <district name="平遥" code="100412" />
+    </city>
+    <city name="长治" code="1005">
+      <district name="长治" code="100501" />
+      <district name="黎城" code="100502" />
+      <district name="屯留" code="100503" />
+      <district name="潞城" code="100504" />
+      <district name="襄垣" code="100505" />
+      <district name="平顺" code="100506" />
+      <district name="武乡" code="100507" />
+      <district name="沁县" code="100508" />
+      <district name="长子" code="100509" />
+      <district name="沁源" code="100510" />
+      <district name="壶关" code="100511" />
+    </city>
+    <city name="晋城" code="1006">
+      <district name="晋城" code="100601" />
+      <district name="沁水" code="100602" />
+      <district name="阳城" code="100603" />
+      <district name="陵川" code="100604" />
+      <district name="高平" code="100605" />
+    </city>
+    <city name="临汾" code="1007">
+      <district name="临汾" code="100701" />
+      <district name="曲沃" code="100702" />
+      <district name="永和" code="100703" />
+      <district name="隰县" code="100704" />
+      <district name="大宁" code="100705" />
+      <district name="吉县" code="100706" />
+      <district name="襄汾" code="100707" />
+      <district name="蒲县" code="100708" />
+      <district name="汾西" code="100709" />
+      <district name="洪洞" code="100710" />
+      <district name="霍州" code="100711" />
+      <district name="乡宁" code="100712" />
+      <district name="翼城" code="100713" />
+      <district name="侯马" code="100714" />
+      <district name="浮山" code="100715" />
+      <district name="安泽" code="100716" />
+      <district name="古县" code="100717" />
+    </city>
+    <city name="运城" code="1008">
+      <district name="运城" code="100801" />
+      <district name="临猗" code="100802" />
+      <district name="稷山" code="100803" />
+      <district name="万荣" code="100804" />
+      <district name="河津" code="100805" />
+      <district name="新绛" code="100806" />
+      <district name="绛县" code="100807" />
+      <district name="闻喜" code="100808" />
+      <district name="垣曲" code="100809" />
+      <district name="永济" code="100810" />
+      <district name="芮城" code="100811" />
+      <district name="夏县" code="100812" />
+      <district name="平陆" code="100813" />
+    </city>
+    <city name="朔州" code="1009">
+      <district name="朔州" code="100901" />
+      <district name="平鲁" code="100902" />
+      <district name="山阴" code="100903" />
+      <district name="右玉" code="100904" />
+      <district name="应县" code="100905" />
+      <district name="怀仁" code="100906" />
+    </city>
+    <city name="忻州" code="1010">
+      <district name="忻州" code="101001" />
+      <district name="定襄" code="101002" />
+      <district name="五台县豆村" code="101003" />
+      <district name="河曲" code="101004" />
+      <district name="偏关" code="101005" />
+      <district name="神池" code="101006" />
+      <district name="宁武" code="101007" />
+      <district name="代县" code="101008" />
+      <district name="繁峙" code="101009" />
+      <district name="五台山" code="101010" />
+      <district name="保德" code="101011" />
+      <district name="静乐" code="101012" />
+      <district name="岢岚" code="101013" />
+      <district name="五寨" code="101014" />
+      <district name="原平" code="101015" />
+    </city>
+    <city name="吕梁" code="1011">
+      <district name="离石" code="101101" />
+      <district name="临县" code="101102" />
+      <district name="兴县" code="101103" />
+      <district name="岚县" code="101104" />
+      <district name="柳林" code="101105" />
+      <district name="石楼" code="101106" />
+      <district name="方山" code="101107" />
+      <district name="交口" code="101108" />
+      <district name="中阳" code="101109" />
+      <district name="孝义" code="101110" />
+      <district name="汾阳" code="101111" />
+      <district name="文水" code="101112" />
+      <district name="交城" code="101113" />
+    </city>
+  </province>
+  <province name="陕西" code="11">
+    <city name="西安" code="1101">
+      <district name="西安" code="110101" />
+      <district name="长安" code="110102" />
+      <district name="临潼" code="110103" />
+      <district name="蓝田" code="110104" />
+      <district name="周至" code="110105" />
+      <district name="户县" code="110106" />
+      <district name="高陵" code="110107" />
+      <district name="杨凌" code="110108" />
+    </city>
+    <city name="咸阳" code="1102">
+      <district name="咸阳" code="110201" />
+      <district name="三原" code="110202" />
+      <district name="礼泉" code="110203" />
+      <district name="永寿" code="110204" />
+      <district name="淳化" code="110205" />
+      <district name="泾阳" code="110206" />
+      <district name="武功" code="110207" />
+      <district name="乾县" code="110208" />
+      <district name="彬县" code="110209" />
+      <district name="长武" code="110210" />
+      <district name="旬邑" code="110211" />
+      <district name="兴平" code="110212" />
+    </city>
+    <city name="延安" code="1103">
+      <district name="延安" code="110301" />
+      <district name="延川" code="110302" />
+      <district name="子长" code="110303" />
+      <district name="延长" code="110304" />
+      <district name="宜川" code="110305" />
+      <district name="富县" code="110306" />
+      <district name="志丹" code="110307" />
+      <district name="安塞" code="110308" />
+      <district name="甘泉" code="110309" />
+      <district name="洛川" code="110310" />
+      <district name="黄陵" code="110311" />
+      <district name="黄龙" code="110312" />
+      <district name="吴旗" code="110313" />
+    </city>
+    <city name="榆林" code="1104">
+      <district name="榆林" code="110401" />
+      <district name="府谷" code="110402" />
+      <district name="神木" code="110403" />
+      <district name="佳县" code="110404" />
+      <district name="定边" code="110405" />
+      <district name="靖边" code="110406" />
+      <district name="横山" code="110407" />
+      <district name="米脂" code="110408" />
+      <district name="子洲" code="110409" />
+      <district name="绥德" code="110410" />
+      <district name="吴堡" code="110411" />
+      <district name="清涧" code="110412" />
+    </city>
+    <city name="渭南" code="1105">
+      <district name="渭南" code="110501" />
+      <district name="华县" code="110502" />
+      <district name="潼关" code="110503" />
+      <district name="大荔" code="110504" />
+      <district name="白水" code="110505" />
+      <district name="富平" code="110506" />
+      <district name="蒲城" code="110507" />
+      <district name="澄城" code="110508" />
+      <district name="合阳" code="110509" />
+      <district name="韩城" code="110510" />
+      <district name="华阴" code="110511" />
+      <district name="华山" code="110512" />
+    </city>
+    <city name="商洛" code="1106">
+      <district name="商洛" code="110601" />
+      <district name="洛南" code="110602" />
+      <district name="柞水" code="110603" />
+      <district name="商州" code="110604" />
+      <district name="丹凤" code="110605" />
+      <district name="商南" code="110606" />
+      <district name="山阳" code="110607" />
+      <district name="镇安" code="110608" />
+    </city>
+    <city name="安康" code="1107">
+      <district name="安康" code="110701" />
+      <district name="紫阳" code="110702" />
+      <district name="石泉" code="110703" />
+      <district name="汉阴" code="110704" />
+      <district name="旬阳" code="110705" />
+      <district name="岚皋" code="110706" />
+      <district name="平利" code="110707" />
+      <district name="白河" code="110708" />
+      <district name="镇坪" code="110709" />
+      <district name="宁陕" code="110710" />
+    </city>
+    <city name="汉中" code="1108">
+      <district name="汉中" code="110801" />
+      <district name="略阳" code="110802" />
+      <district name="勉县" code="110803" />
+      <district name="留坝" code="110804" />
+      <district name="洋县" code="110805" />
+      <district name="城固" code="110806" />
+      <district name="西乡" code="110807" />
+      <district name="佛坪" code="110808" />
+      <district name="宁强" code="110809" />
+      <district name="南郑" code="110810" />
+      <district name="镇巴" code="110811" />
+    </city>
+    <city name="宝鸡" code="1109">
+      <district name="宝鸡" code="110901" />
+      <district name="宝鸡县" code="110902" />
+      <district name="千阳" code="110903" />
+      <district name="麟游" code="110904" />
+      <district name="岐山" code="110905" />
+      <district name="凤翔" code="110906" />
+      <district name="扶风" code="110907" />
+      <district name="眉县" code="110908" />
+      <district name="太白" code="110909" />
+      <district name="凤县" code="110910" />
+      <district name="陇县" code="110911" />
+    </city>
+    <city name="铜川" code="1110">
+      <district name="铜川" code="111001" />
+      <district name="耀县" code="111002" />
+      <district name="宜君" code="111003" />
+    </city>
+  </province>
+  <province name="山东" code="12">
+    <city name="济南" code="1201">
+      <district name="济南" code="120101" />
+      <district name="长清" code="120102" />
+      <district name="商河" code="120103" />
+      <district name="章丘" code="120104" />
+      <district name="平阴" code="120105" />
+      <district name="济阳" code="120106" />
+    </city>
+    <city name="青岛" code="1202">
+      <district name="青岛" code="120201" />
+      <district name="崂山" code="120202" />
+      <district name="潮连岛" code="120203" />
+      <district name="即墨" code="120204" />
+      <district name="胶州" code="120205" />
+      <district name="胶南" code="120206" />
+      <district name="莱西" code="120207" />
+      <district name="平度" code="120208" />
+    </city>
+    <city name="淄博" code="1203">
+      <district name="淄博" code="120301" />
+      <district name="淄川" code="120302" />
+      <district name="博山" code="120303" />
+      <district name="高青" code="120304" />
+      <district name="周村" code="120305" />
+      <district name="沂源" code="120306" />
+      <district name="桓台" code="120307" />
+      <district name="临淄" code="120308" />
+    </city>
+    <city name="德州" code="1204">
+      <district name="德州" code="120401" />
+      <district name="武城" code="120402" />
+      <district name="临邑" code="120403" />
+      <district name="陵县" code="120404" />
+      <district name="齐河" code="120405" />
+      <district name="乐陵" code="120406" />
+      <district name="庆云" code="120407" />
+      <district name="平原" code="120408" />
+      <district name="宁津" code="120409" />
+      <district name="夏津" code="120410" />
+      <district name="禹城" code="120411" />
+    </city>
+    <city name="烟台" code="1205">
+      <district name="烟台" code="120501" />
+      <district name="莱州" code="120502" />
+      <district name="长岛" code="120503" />
+      <district name="蓬莱" code="120504" />
+      <district name="龙口" code="120505" />
+      <district name="招远" code="120506" />
+      <district name="栖霞" code="120507" />
+      <district name="福山" code="120508" />
+      <district name="牟平" code="120509" />
+      <district name="莱阳" code="120510" />
+      <district name="海阳" code="120511" />
+      <district name="千里岩" code="120512" />
+    </city>
+    <city name="潍坊" code="1206">
+      <district name="潍坊" code="120601" />
+      <district name="青州" code="120602" />
+      <district name="寿光" code="120603" />
+      <district name="临朐" code="120604" />
+      <district name="昌乐" code="120605" />
+      <district name="昌邑" code="120606" />
+      <district name="安丘" code="120607" />
+      <district name="高密" code="120608" />
+      <district name="诸城" code="120609" />
+    </city>
+    <city name="济宁" code="1207">
+      <district name="济宁" code="120701" />
+      <district name="嘉祥" code="120702" />
+      <district name="微山" code="120703" />
+      <district name="鱼台" code="120704" />
+      <district name="兖州" code="120705" />
+      <district name="金乡" code="120706" />
+      <district name="汶上" code="120707" />
+      <district name="泗水" code="120708" />
+      <district name="梁山" code="120709" />
+      <district name="曲阜" code="120710" />
+      <district name="邹城" code="120711" />
+    </city>
+    <city name="泰安" code="1208">
+      <district name="泰安" code="120801" />
+      <district name="新泰" code="120802" />
+      <district name="泰山" code="120803" />
+      <district name="肥城" code="120804" />
+      <district name="东平" code="120805" />
+      <district name="宁阳" code="120806" />
+    </city>
+    <city name="临沂" code="1209">
+      <district name="临沂" code="120901" />
+      <district name="莒南" code="120902" />
+      <district name="沂南" code="120903" />
+      <district name="苍山" code="120904" />
+      <district name="临沭" code="120905" />
+      <district name="郯城" code="120906" />
+      <district name="蒙阴" code="120907" />
+      <district name="平邑" code="120908" />
+      <district name="费县" code="120909" />
+      <district name="沂水" code="120910" />
+      <district name="马站" code="120911" />
+    </city>
+    <city name="菏泽" code="1210">
+      <district name="菏泽" code="121001" />
+      <district name="鄄城" code="121002" />
+      <district name="郓城" code="121003" />
+      <district name="东明" code="121004" />
+      <district name="定陶" code="121005" />
+      <district name="巨野" code="121006" />
+      <district name="曹县" code="121007" />
+      <district name="成武" code="121008" />
+      <district name="单县" code="121009" />
+    </city>
+    <city name="滨州" code="1211">
+      <district name="滨州" code="121101" />
+      <district name="博兴" code="121102" />
+      <district name="无棣" code="121103" />
+      <district name="阳信" code="121104" />
+      <district name="惠民" code="121105" />
+      <district name="沾化" code="121106" />
+      <district name="邹平" code="121107" />
+    </city>
+    <city name="东营" code="1212">
+      <district name="东营" code="121201" />
+      <district name="河口" code="121202" />
+      <district name="垦利" code="121203" />
+      <district name="利津" code="121204" />
+      <district name="广饶" code="121205" />
+    </city>
+    <city name="威海" code="1213">
+      <district name="威海" code="121301" />
+      <district name="文登" code="121302" />
+      <district name="荣成" code="121303" />
+      <district name="乳山" code="121304" />
+      <district name="成山头" code="121305" />
+      <district name="石岛" code="121306" />
+    </city>
+    <city name="枣庄" code="1214">
+      <district name="枣庄" code="121401" />
+      <district name="薛城" code="121402" />
+      <district name="峄城" code="121403" />
+      <district name="台儿庄" code="121404" />
+      <district name="滕州" code="121405" />
+    </city>
+    <city name="日照" code="1215">
+      <district name="日照" code="121501" />
+      <district name="五莲" code="121502" />
+      <district name="莒县" code="121503" />
+    </city>
+    <city name="莱芜" code="1216">
+      <district name="莱芜" code="121601" />
+    </city>
+    <city name="聊城" code="1217">
+      <district name="聊城" code="121701" />
+      <district name="冠县" code="121702" />
+      <district name="阳谷" code="121703" />
+      <district name="高唐" code="121704" />
+      <district name="茌平" code="121705" />
+      <district name="东阿" code="121706" />
+      <district name="临清" code="121707" />
+      <district name="朝城" code="121708" />
+    </city>
+  </province>
+  <province name="新疆" code="13">
+    <city name="乌鲁木齐" code="1301">
+      <district name="乌鲁木齐" code="130101" />
+      <district name="蔡家湖" code="130102" />
+      <district name="小渠子" code="130103" />
+      <district name="巴仑台" code="130104" />
+      <district name="达坂城" code="130105" />
+      <district name="十三间房气象站" code="130106" />
+      <district name="天山大西沟" code="130107" />
+      <district name="乌鲁木齐牧试站" code="130108" />
+      <district name="天池" code="130109" />
+    </city>
+    <city name="克拉玛依" code="1302">
+      <district name="克拉玛依" code="130201" />
+    </city>
+    <city name="石河子" code="1303">
+      <district name="石河子" code="130301" />
+      <district name="炮台" code="130302" />
+      <district name="莫索湾" code="130303" />
+      <district name="乌兰乌苏" code="130304" />
+    </city>
+    <city name="昌吉" code="1304">
+      <district name="昌吉" code="130401" />
+      <district name="呼图壁" code="130402" />
+      <district name="米泉" code="130403" />
+      <district name="阜康" code="130404" />
+      <district name="吉木萨尔" code="130405" />
+      <district name="奇台" code="130406" />
+      <district name="玛纳斯" code="130407" />
+      <district name="木垒" code="130408" />
+      <district name="北塔山" code="130409" />
+    </city>
+    <city name="吐鲁番" code="1305">
+      <district name="吐鲁番" code="130501" />
+      <district name="托克逊" code="130502" />
+      <district name="吐鲁番东坎" code="130503" />
+      <district name="鄯善" code="130504" />
+      <district name="红柳河" code="130505" />
+    </city>
+    <city name="巴音郭楞" code="1306">
+      <district name="库尔勒" code="130601" />
+      <district name="轮台" code="130602" />
+      <district name="尉犁" code="130603" />
+      <district name="若羌" code="130604" />
+      <district name="且末" code="130605" />
+      <district name="和静" code="130606" />
+      <district name="焉耆" code="130607" />
+      <district name="和硕" code="130608" />
+      <district name="库米什" code="130609" />
+      <district name="巴音布鲁克" code="130610" />
+      <district name="铁干里克" code="130611" />
+    </city>
+    <city name="阿拉尔" code="1307">
+      <district name="阿拉尔" code="130701" />
+    </city>
+    <city name="阿克苏" code="1308">
+      <district name="阿克苏" code="130801" />
+      <district name="乌什" code="130802" />
+      <district name="温宿" code="130803" />
+      <district name="拜城" code="130804" />
+      <district name="新和" code="130805" />
+      <district name="沙雅" code="130806" />
+      <district name="库车" code="130807" />
+      <district name="柯坪" code="130808" />
+      <district name="阿瓦提" code="130809" />
+    </city>
+    <city name="喀什" code="1309">
+      <district name="喀什" code="130901" />
+      <district name="英吉沙" code="130902" />
+      <district name="塔什库尔干" code="130903" />
+      <district name="麦盖提" code="130904" />
+      <district name="莎车" code="130905" />
+      <district name="叶城" code="130906" />
+      <district name="泽普" code="130907" />
+      <district name="巴楚" code="130908" />
+      <district name="岳普湖" code="130909" />
+      <district name="伽师" code="130910" />
+    </city>
+    <city name="伊犁" code="1310">
+      <district name="伊宁" code="131001" />
+      <district name="察布查尔" code="131002" />
+      <district name="尼勒克" code="131003" />
+      <district name="伊宁县" code="131004" />
+      <district name="巩留" code="131005" />
+      <district name="新源" code="131006" />
+      <district name="昭苏" code="131007" />
+      <district name="特克斯" code="131008" />
+      <district name="霍城" code="131009" />
+      <district name="霍尔果斯" code="131010" />
+    </city>
+    <city name="塔城" code="1311">
+      <district name="塔城" code="131101" />
+      <district name="裕民" code="131102" />
+      <district name="额敏" code="131103" />
+      <district name="和布克赛尔" code="131104" />
+      <district name="托里" code="131105" />
+      <district name="乌苏" code="131106" />
+      <district name="沙湾" code="131107" />
+    </city>
+    <city name="哈密" code="1312">
+      <district name="哈密" code="131201" />
+      <district name="沁城" code="131202" />
+      <district name="巴里坤" code="131203" />
+      <district name="伊吾" code="131204" />
+      <district name="淖毛湖" code="131205" />
+    </city>
+    <city name="和田" code="1313">
+      <district name="和田" code="131301" />
+      <district name="皮山" code="131302" />
+      <district name="策勒" code="131303" />
+      <district name="墨玉" code="131304" />
+      <district name="洛浦" code="131305" />
+      <district name="民丰" code="131306" />
+      <district name="于田" code="131307" />
+    </city>
+    <city name="阿勒泰" code="1314">
+      <district name="阿勒泰" code="131401" />
+      <district name="哈巴河" code="131402" />
+      <district name="一八五团" code="131403" />
+      <district name="黑山头" code="131404" />
+      <district name="吉木乃" code="131405" />
+      <district name="布尔津" code="131406" />
+      <district name="福海" code="131407" />
+      <district name="富蕴" code="131408" />
+      <district name="青河" code="131409" />
+    </city>
+    <city name="克州" code="1315">
+      <district name="阿图什" code="131501" />
+      <district name="乌恰" code="131502" />
+      <district name="阿克陶" code="131503" />
+      <district name="阿合奇" code="131504" />
+      <district name="吐尔尕特" code="131505" />
+    </city>
+    <city name="博尔塔拉" code="1316">
+      <district name="博乐" code="131601" />
+      <district name="温泉" code="131602" />
+      <district name="精河" code="131603" />
+      <district name="阿拉山口" code="131604" />
+    </city>
+  </province>
+  <province name="西藏" code="14">
+    <city name="拉萨" code="1401">
+      <district name="拉萨" code="140101" />
+      <district name="当雄" code="140102" />
+      <district name="尼木" code="140103" />
+      <district name="墨竹贡卡" code="140104" />
+    </city>
+    <city name="日喀则" code="1402">
+      <district name="日喀则" code="140201" />
+      <district name="拉孜" code="140202" />
+      <district name="南木林" code="140203" />
+      <district name="聂拉木" code="140204" />
+      <district name="定日" code="140205" />
+      <district name="江孜" code="140206" />
+      <district name="帕里" code="140207" />
+    </city>
+    <city name="山南" code="1403">
+      <district name="山南" code="140301" />
+      <district name="贡嘎" code="140302" />
+      <district name="琼结" code="140303" />
+      <district name="加查" code="140304" />
+      <district name="浪卡子" code="140305" />
+      <district name="错那" code="140306" />
+      <district name="隆子" code="140307" />
+    </city>
+    <city name="林芝" code="1404">
+      <district name="林芝" code="140401" />
+      <district name="波密" code="140402" />
+      <district name="米林" code="140403" />
+      <district name="察隅" code="140404" />
+    </city>
+    <city name="昌都" code="1405">
+      <district name="昌都" code="140501" />
+      <district name="丁青" code="140502" />
+      <district name="类乌齐" code="140503" />
+      <district name="洛隆" code="140504" />
+      <district name="左贡" code="140505" />
+      <district name="芒康" code="140506" />
+      <district name="八宿" code="140507" />
+    </city>
+    <city name="那曲" code="1406">
+      <district name="那曲" code="140601" />
+      <district name="嘉黎" code="140602" />
+      <district name="班戈" code="140603" />
+      <district name="安多" code="140604" />
+      <district name="索县" code="140605" />
+      <district name="比如" code="140606" />
+    </city>
+    <city name="阿里" code="1407">
+      <district name="阿里" code="140701" />
+      <district name="改则" code="140702" />
+      <district name="申扎" code="140703" />
+      <district name="狮泉河" code="140704" />
+    </city>
+  </province>
+  <province name="青海" code="15">
+    <city name="西宁" code="1501">
+      <district name="西宁" code="150101" />
+      <district name="大通" code="150102" />
+      <district name="湟源" code="150103" />
+      <district name="湟中" code="150104" />
+      <district name="铁卜加" code="150105" />
+      <district name="铁卜加寺" code="150106" />
+      <district name="中心站" code="150107" />
+    </city>
+    <city name="海东" code="1502">
+      <district name="海东" code="150201" />
+      <district name="乐都" code="150202" />
+      <district name="民和" code="150203" />
+      <district name="互助" code="150204" />
+      <district name="化隆" code="150205" />
+      <district name="循化" code="150206" />
+      <district name="冷湖" code="150207" />
+    </city>
+    <city name="黄南" code="1503">
+      <district name="黄南" code="150301" />
+      <district name="尖扎" code="150302" />
+      <district name="泽库" code="150303" />
+    </city>
+    <city name="海南" code="1504">
+      <district name="海南" code="150401" />
+      <district name="江西沟" code="150402" />
+      <district name="贵德" code="150403" />
+      <district name="河卡" code="150404" />
+      <district name="兴海" code="150405" />
+      <district name="贵南" code="150406" />
+      <district name="同德" code="150407" />
+    </city>
+    <city name="果洛" code="1505">
+      <district name="果洛" code="150501" />
+      <district name="班玛" code="150502" />
+      <district name="甘德" code="150503" />
+      <district name="达日" code="150504" />
+      <district name="久治" code="150505" />
+      <district name="玛多" code="150506" />
+      <district name="清水河" code="150507" />
+    </city>
+    <city name="玉树" code="1506">
+      <district name="玉树" code="150601" />
+      <district name="托托河" code="150602" />
+      <district name="治多" code="150603" />
+      <district name="杂多" code="150604" />
+      <district name="囊谦" code="150605" />
+      <district name="曲麻莱" code="150606" />
+    </city>
+    <city name="海西" code="1507">
+      <district name="海西" code="150701" />
+      <district name="格尔木" code="150702" />
+      <district name="察尔汉" code="150703" />
+      <district name="野牛沟" code="150704" />
+      <district name="五道梁" code="150705" />
+      <district name="小灶火" code="150706" />
+      <district name="天峻" code="150707" />
+      <district name="乌兰" code="150708" />
+      <district name="都兰" code="150709" />
+      <district name="诺木洪" code="150710" />
+      <district name="茫崖" code="150711" />
+      <district name="大柴旦" code="150712" />
+      <district name="茶卡" code="150713" />
+      <district name="香日德" code="150714" />
+    </city>
+    <city name="海北" code="1508">
+      <district name="海北" code="150801" />
+      <district name="门源" code="150802" />
+      <district name="祁连" code="150803" />
+      <district name="海晏" code="150804" />
+      <district name="托勒" code="150805" />
+    </city>
+  </province>
+  <province name="甘肃" code="16">
+    <city name="兰州" code="1601">
+      <district name="兰州" code="160101" />
+      <district name="皋兰" code="160102" />
+      <district name="永登" code="160103" />
+      <district name="榆中" code="160104" />
+    </city>
+    <city name="定西" code="1602">
+      <district name="定西" code="160201" />
+      <district name="通渭" code="160202" />
+      <district name="陇西" code="160203" />
+      <district name="渭源" code="160204" />
+      <district name="临洮" code="160205" />
+      <district name="漳县" code="160206" />
+      <district name="岷县" code="160207" />
+    </city>
+    <city name="平凉" code="1603">
+      <district name="平凉" code="160301" />
+      <district name="泾川" code="160302" />
+      <district name="灵台" code="160303" />
+      <district name="崇信" code="160304" />
+      <district name="华亭" code="160305" />
+      <district name="庄浪" code="160306" />
+      <district name="静宁" code="160307" />
+    </city>
+    <city name="庆阳" code="1604">
+      <district name="庆阳" code="160401" />
+      <district name="西峰" code="160402" />
+      <district name="环县" code="160403" />
+      <district name="华池" code="160404" />
+      <district name="合水" code="160405" />
+      <district name="正宁" code="160406" />
+      <district name="宁县" code="160407" />
+      <district name="镇原" code="160408" />
+    </city>
+    <city name="武威" code="1605">
+      <district name="武威" code="160501" />
+      <district name="民勤" code="160502" />
+      <district name="古浪" code="160503" />
+      <district name="乌鞘岭" code="160504" />
+    </city>
+    <city name="金昌" code="1606">
+      <district name="金昌" code="160601" />
+      <district name="永昌" code="160602" />
+    </city>
+    <city name="张掖" code="1607">
+      <district name="张掖" code="160701" />
+      <district name="肃南" code="160702" />
+      <district name="民乐" code="160703" />
+      <district name="临泽" code="160704" />
+      <district name="高台" code="160705" />
+      <district name="山丹" code="160706" />
+    </city>
+    <city name="酒泉" code="1608">
+      <district name="酒泉" code="160801" />
+      <district name="鼎新" code="160802" />
+      <district name="金塔" code="160803" />
+      <district name="马鬃山" code="160804" />
+      <district name="安西" code="160805" />
+      <district name="肃北" code="160806" />
+      <district name="玉门镇" code="160807" />
+      <district name="敦煌" code="160808" />
+    </city>
+    <city name="天水" code="1609">
+      <district name="天水" code="160901" />
+      <district name="麦积" code="160902" />
+      <district name="清水" code="160903" />
+      <district name="秦安" code="160904" />
+      <district name="甘谷" code="160905" />
+      <district name="武山" code="160906" />
+      <district name="张家川" code="160907" />
+    </city>
+    <city name="陇南" code="1610">
+      <district name="武都" code="161001" />
+      <district name="成县" code="161002" />
+      <district name="文县" code="161003" />
+      <district name="宕昌" code="161004" />
+      <district name="康县" code="161005" />
+      <district name="西和" code="161006" />
+      <district name="礼县" code="161007" />
+      <district name="徽县" code="161008" />
+      <district name="两当" code="161009" />
+    </city>
+    <city name="临夏" code="1611">
+      <district name="临夏" code="161101" />
+      <district name="康乐" code="161102" />
+      <district name="永靖" code="161103" />
+      <district name="广河" code="161104" />
+      <district name="和政" code="161105" />
+      <district name="东乡" code="161106" />
+    </city>
+    <city name="甘南" code="1612">
+      <district name="合作" code="161201" />
+      <district name="临潭" code="161202" />
+      <district name="卓尼" code="161203" />
+      <district name="舟曲" code="161204" />
+      <district name="迭部" code="161205" />
+      <district name="玛曲" code="161206" />
+      <district name="碌曲" code="161207" />
+      <district name="夏河" code="161208" />
+    </city>
+    <city name="白银" code="1613">
+      <district name="白银" code="161301" />
+      <district name="靖远" code="161302" />
+      <district name="会宁" code="161303" />
+      <district name="华家岭" code="161304" />
+      <district name="景泰" code="161305" />
+    </city>
+  </province>
+  <province name="宁夏" code="17">
+    <city name="银川" code="1701">
+      <district name="银川" code="170101" />
+      <district name="永宁" code="170102" />
+      <district name="灵武" code="170103" />
+      <district name="贺兰" code="170104" />
+    </city>
+    <city name="石嘴山" code="1702">
+      <district name="石嘴山" code="170201" />
+      <district name="惠农" code="170202" />
+      <district name="平罗" code="170203" />
+      <district name="陶乐" code="170204" />
+      <district name="石炭井" code="170205" />
+    </city>
+    <city name="吴忠" code="1703">
+      <district name="吴忠" code="170301" />
+      <district name="同心" code="170302" />
+      <district name="盐池" code="170303" />
+      <district name="韦州" code="170304" />
+      <district name="麻黄山" code="170305" />
+      <district name="青铜峡" code="170306" />
+    </city>
+    <city name="固原" code="1704">
+      <district name="固原" code="170401" />
+      <district name="西吉" code="170402" />
+      <district name="隆德" code="170403" />
+      <district name="泾源" code="170404" />
+      <district name="六盘山" code="170405" />
+    </city>
+    <city name="中卫" code="1705">
+      <district name="中卫" code="170501" />
+      <district name="中宁" code="170502" />
+      <district name="兴仁堡" code="170503" />
+      <district name="海原" code="170504" />
+    </city>
+  </province>
+  <province name="河南" code="18">
+    <city name="郑州" code="1801">
+      <district name="郑州" code="180101" />
+      <district name="巩义" code="180102" />
+      <district name="荥阳" code="180103" />
+      <district name="登封" code="180104" />
+      <district name="新密" code="180105" />
+      <district name="新郑" code="180106" />
+      <district name="中牟" code="180107" />
+      <district name="郑州农试站" code="180108" />
+    </city>
+    <city name="安阳" code="1802">
+      <district name="安阳" code="180201" />
+      <district name="汤阴" code="180202" />
+      <district name="滑县" code="180203" />
+      <district name="内黄" code="180204" />
+      <district name="林州" code="180205" />
+    </city>
+    <city name="新乡" code="1803">
+      <district name="新乡" code="180301" />
+      <district name="获嘉" code="180302" />
+      <district name="原阳" code="180303" />
+      <district name="辉县" code="180304" />
+      <district name="卫辉" code="180305" />
+      <district name="延津" code="180306" />
+      <district name="封丘" code="180307" />
+      <district name="长垣" code="180308" />
+    </city>
+    <city name="许昌" code="1804">
+      <district name="许昌" code="180401" />
+      <district name="鄢陵" code="180402" />
+      <district name="襄城" code="180403" />
+      <district name="长葛" code="180404" />
+      <district name="禹州" code="180405" />
+    </city>
+    <city name="平顶山" code="1805">
+      <district name="平顶山" code="180501" />
+      <district name="郏县" code="180502" />
+      <district name="宝丰" code="180503" />
+      <district name="汝州" code="180504" />
+      <district name="叶县" code="180505" />
+      <district name="舞钢" code="180506" />
+      <district name="鲁山" code="180507" />
+    </city>
+    <city name="信阳" code="1806">
+      <district name="信阳" code="180601" />
+      <district name="息县" code="180602" />
+      <district name="罗山" code="180603" />
+      <district name="光山" code="180604" />
+      <district name="新县" code="180605" />
+      <district name="淮滨" code="180606" />
+      <district name="潢川" code="180607" />
+      <district name="固始" code="180608" />
+      <district name="商城" code="180609" />
+      <district name="鸡公山" code="180610" />
+      <district name="信阳地区农试站" code="180611" />
+    </city>
+    <city name="南阳" code="1807">
+      <district name="南阳" code="180701" />
+      <district name="南召" code="180702" />
+      <district name="方城" code="180703" />
+      <district name="社旗" code="180704" />
+      <district name="西峡" code="180705" />
+      <district name="内乡" code="180706" />
+      <district name="镇平" code="180707" />
+      <district name="淅川" code="180708" />
+      <district name="新野" code="180709" />
+      <district name="唐河" code="180710" />
+      <district name="邓州" code="180711" />
+      <district name="桐柏" code="180712" />
+    </city>
+    <city name="开封" code="1808">
+      <district name="开封" code="180801" />
+      <district name="杞县" code="180802" />
+      <district name="尉氏" code="180803" />
+      <district name="通许" code="180804" />
+      <district name="兰考" code="180805" />
+    </city>
+    <city name="洛阳" code="1809">
+      <district name="洛阳" code="180901" />
+      <district name="新安" code="180902" />
+      <district name="孟津" code="180903" />
+      <district name="宜阳" code="180904" />
+      <district name="洛宁" code="180905" />
+      <district name="伊川" code="180906" />
+      <district name="嵩县" code="180907" />
+      <district name="偃师" code="180908" />
+      <district name="栾川" code="180909" />
+      <district name="汝阳" code="180910" />
+    </city>
+    <city name="商丘" code="1810">
+      <district name="商丘" code="181001" />
+      <district name="睢阳区" code="181002" />
+      <district name="睢县" code="181003" />
+      <district name="民权" code="181004" />
+      <district name="虞城" code="181005" />
+      <district name="柘城" code="181006" />
+      <district name="宁陵" code="181007" />
+      <district name="夏邑" code="181008" />
+      <district name="永城" code="181009" />
+    </city>
+    <city name="焦作" code="1811">
+      <district name="焦作" code="181101" />
+      <district name="修武" code="181102" />
+      <district name="武陟" code="181103" />
+      <district name="沁阳" code="181104" />
+      <district name="博爱" code="181105" />
+      <district name="温县" code="181106" />
+      <district name="孟州" code="181107" />
+    </city>
+    <city name="鹤壁" code="1812">
+      <district name="鹤壁" code="181201" />
+      <district name="浚县" code="181202" />
+      <district name="淇县" code="181203" />
+    </city>
+    <city name="濮阳" code="1813">
+      <district name="濮阳" code="181301" />
+      <district name="台前" code="181302" />
+      <district name="南乐" code="181303" />
+      <district name="清丰" code="181304" />
+      <district name="范县" code="181305" />
+    </city>
+    <city name="周口" code="1814">
+      <district name="周口" code="181401" />
+      <district name="扶沟" code="181402" />
+      <district name="太康" code="181403" />
+      <district name="淮阳" code="181404" />
+      <district name="西华" code="181405" />
+      <district name="商水" code="181406" />
+      <district name="项城" code="181407" />
+      <district name="郸城" code="181408" />
+      <district name="鹿邑" code="181409" />
+      <district name="沈丘" code="181410" />
+      <district name="黄泛区" code="181411" />
+    </city>
+    <city name="漯河" code="1815">
+      <district name="漯河" code="181501" />
+      <district name="临颍" code="181502" />
+      <district name="舞阳" code="181503" />
+    </city>
+    <city name="驻马店" code="1816">
+      <district name="驻马店" code="181601" />
+      <district name="西平" code="181602" />
+      <district name="遂平" code="181603" />
+      <district name="上蔡" code="181604" />
+      <district name="汝南" code="181605" />
+      <district name="泌阳" code="181606" />
+      <district name="平舆" code="181607" />
+      <district name="新蔡" code="181608" />
+      <district name="确山" code="181609" />
+      <district name="正阳" code="181610" />
+    </city>
+    <city name="三门峡" code="1817">
+      <district name="三门峡" code="181701" />
+      <district name="灵宝" code="181702" />
+      <district name="渑池" code="181703" />
+      <district name="卢氏" code="181704" />
+    </city>
+    <city name="济源" code="1818">
+      <district name="济源" code="181801" />
+    </city>
+  </province>
+  <province name="江苏" code="19">
+    <city name="南京" code="1901">
+      <district name="南京" code="190101" />
+      <district name="溧水" code="190102" />
+      <district name="高淳" code="190103" />
+      <district name="江宁" code="190104" />
+      <district name="六合" code="190105" />
+      <district name="江浦" code="190106" />
+    </city>
+    <city name="无锡" code="1902">
+      <district name="无锡" code="190201" />
+      <district name="江阴" code="190202" />
+      <district name="宜兴" code="190203" />
+    </city>
+    <city name="镇江" code="1903">
+      <district name="镇江" code="190301" />
+      <district name="丹阳" code="190302" />
+      <district name="扬中" code="190303" />
+      <district name="句容" code="190304" />
+      <district name="丹徒" code="190305" />
+    </city>
+    <city name="苏州" code="1904">
+      <district name="苏州" code="190401" />
+      <district name="常熟" code="190402" />
+      <district name="张家港" code="190403" />
+      <district name="昆山" code="190404" />
+      <district name="吴县东山" code="190405" />
+      <district name="吴县" code="190406" />
+      <district name="吴江" code="190407" />
+      <district name="太仓" code="190408" />
+    </city>
+    <city name="南通" code="1905">
+      <district name="南通" code="190501" />
+      <district name="海安" code="190502" />
+      <district name="如皋" code="190503" />
+      <district name="如东" code="190504" />
+      <district name="吕泗" code="190505" />
+      <district name="吕泗渔场" code="190506" />
+      <district name="启东" code="190507" />
+      <district name="海门" code="190508" />
+    </city>
+    <city name="扬州" code="1906">
+      <district name="扬州" code="190601" />
+      <district name="宝应" code="190602" />
+      <district name="仪征" code="190603" />
+      <district name="高邮" code="190604" />
+      <district name="江都" code="190605" />
+      <district name="邗江" code="190606" />
+    </city>
+    <city name="盐城" code="1907">
+      <district name="盐城" code="190701" />
+      <district name="响水" code="190702" />
+      <district name="滨海" code="190703" />
+      <district name="阜宁" code="190704" />
+      <district name="射阳" code="190705" />
+      <district name="建湖" code="190706" />
+      <district name="东台" code="190707" />
+      <district name="大丰" code="190708" />
+      <district name="盐都" code="190709" />
+    </city>
+    <city name="徐州" code="1908">
+      <district name="徐州" code="190801" />
+      <district name="徐州农试站" code="190802" />
+      <district name="丰县" code="190803" />
+      <district name="沛县" code="190804" />
+      <district name="邳州" code="190805" />
+      <district name="睢宁" code="190806" />
+      <district name="新沂" code="190807" />
+    </city>
+    <city name="淮安" code="1909">
+      <district name="淮安" code="190901" />
+      <district name="金湖" code="190902" />
+      <district name="盱眙" code="190903" />
+      <district name="洪泽" code="190904" />
+      <district name="涟水" code="190905" />
+      <district name="淮阴县" code="190906" />
+      <district name="淮阴" code="190907" />
+      <district name="楚州" code="190908" />
+    </city>
+    <city name="连云港" code="1910">
+      <district name="连云港" code="191001" />
+      <district name="东海" code="191002" />
+      <district name="赣榆" code="191003" />
+      <district name="灌云" code="191004" />
+      <district name="灌南" code="191005" />
+      <district name="西连岛" code="191006" />
+      <district name="燕尾港" code="191007" />
+    </city>
+    <city name="常州" code="1911">
+      <district name="常州" code="191101" />
+      <district name="溧阳" code="191102" />
+      <district name="金坛" code="191103" />
+    </city>
+    <city name="泰州" code="1912">
+      <district name="泰州" code="191201" />
+      <district name="兴化" code="191202" />
+      <district name="泰兴" code="191203" />
+      <district name="姜堰" code="191204" />
+      <district name="靖江" code="191205" />
+    </city>
+    <city name="宿迁" code="1913">
+      <district name="宿迁" code="191301" />
+      <district name="沭阳" code="191302" />
+      <district name="泗阳" code="191303" />
+      <district name="泗洪" code="191304" />
+    </city>
+  </province>
+  <province name="湖北" code="20">
+    <city name="武汉" code="2001">
+      <district name="武汉" code="200101" />
+      <district name="蔡甸" code="200102" />
+      <district name="黄陂" code="200103" />
+      <district name="新洲" code="200104" />
+      <district name="江夏" code="200105" />
+    </city>
+    <city name="襄阳" code="2002">
+      <district name="襄阳" code="200201" />
+      <district name="襄州" code="200202" />
+      <district name="保康" code="200203" />
+      <district name="南漳" code="200204" />
+      <district name="宜城" code="200205" />
+      <district name="老河口" code="200206" />
+      <district name="谷城" code="200207" />
+      <district name="枣阳" code="200208" />
+    </city>
+    <city name="鄂州" code="2003">
+      <district name="鄂州" code="200301" />
+    </city>
+    <city name="孝感" code="2004">
+      <district name="孝感" code="200401" />
+      <district name="安陆" code="200402" />
+      <district name="云梦" code="200403" />
+      <district name="大悟" code="200404" />
+      <district name="应城" code="200405" />
+      <district name="汉川" code="200406" />
+      <district name="孝昌" code="200407" />
+    </city>
+    <city name="黄冈" code="2005">
+      <district name="黄冈" code="200501" />
+      <district name="红安" code="200502" />
+      <district name="麻城" code="200503" />
+      <district name="罗田" code="200504" />
+      <district name="英山" code="200505" />
+      <district name="浠水" code="200506" />
+      <district name="蕲春" code="200507" />
+      <district name="黄梅" code="200508" />
+      <district name="武穴" code="200509" />
+    </city>
+    <city name="黄石" code="2006">
+      <district name="黄石" code="200601" />
+      <district name="大冶" code="200602" />
+      <district name="阳新" code="200603" />
+    </city>
+    <city name="咸宁" code="2007">
+      <district name="咸宁" code="200701" />
+      <district name="赤壁" code="200702" />
+      <district name="嘉鱼" code="200703" />
+      <district name="崇阳" code="200704" />
+      <district name="通城" code="200705" />
+      <district name="通山" code="200706" />
+    </city>
+    <city name="荆州" code="2008">
+      <district name="荆州" code="200801" />
+      <district name="江陵" code="200802" />
+      <district name="公安" code="200803" />
+      <district name="石首" code="200804" />
+      <district name="监利" code="200805" />
+      <district name="洪湖" code="200806" />
+      <district name="松滋" code="200807" />
+    </city>
+    <city name="宜昌" code="2009">
+      <district name="宜昌" code="200901" />
+      <district name="远安" code="200902" />
+      <district name="秭归" code="200903" />
+      <district name="兴山" code="200904" />
+      <district name="宜昌县" code="200905" />
+      <district name="五峰" code="200906" />
+      <district name="当阳" code="200907" />
+      <district name="长阳" code="200908" />
+      <district name="宜都" code="200909" />
+      <district name="枝江" code="200910" />
+      <district name="三峡" code="200911" />
+    </city>
+    <city name="恩施" code="2010">
+      <district name="恩施" code="201001" />
+      <district name="利川" code="201002" />
+      <district name="建始" code="201003" />
+      <district name="咸丰" code="201004" />
+      <district name="宣恩" code="201005" />
+      <district name="鹤峰" code="201006" />
+      <district name="来凤" code="201007" />
+      <district name="巴东" code="201008" />
+      <district name="绿葱坡" code="201009" />
+    </city>
+    <city name="十堰" code="2011">
+      <district name="十堰" code="201101" />
+      <district name="竹溪" code="201102" />
+      <district name="郧西" code="201103" />
+      <district name="郧县" code="201104" />
+      <district name="竹山" code="201105" />
+      <district name="房县" code="201106" />
+      <district name="丹江口" code="201107" />
+    </city>
+    <city name="神农架" code="2012">
+      <district name="神农架" code="201201" />
+    </city>
+    <city name="随州" code="2013">
+      <district name="随州" code="201301" />
+      <district name="广水" code="201302" />
+    </city>
+    <city name="荆门" code="2014">
+      <district name="荆门" code="201401" />
+      <district name="钟祥" code="201402" />
+      <district name="京山" code="201403" />
+    </city>
+    <city name="天门" code="2015">
+      <district name="天门" code="201501" />
+    </city>
+    <city name="仙桃" code="2016">
+      <district name="仙桃" code="201601" />
+    </city>
+    <city name="潜江" code="2017">
+      <district name="潜江" code="201701" />
+    </city>
+  </province>
+  <province name="浙江" code="21">
+    <city name="杭州" code="2101">
+      <district name="杭州" code="210101" />
+      <district name="萧山" code="210102" />
+      <district name="桐庐" code="210103" />
+      <district name="淳安" code="210104" />
+      <district name="建德" code="210105" />
+      <district name="昌化" code="210106" />
+      <district name="临安" code="210107" />
+      <district name="富阳" code="210108" />
+      <district name="余杭" code="210109" />
+    </city>
+    <city name="湖州" code="2102">
+      <district name="湖州" code="210201" />
+      <district name="长兴" code="210202" />
+      <district name="安吉" code="210203" />
+      <district name="德清" code="210204" />
+    </city>
+    <city name="嘉兴" code="2103">
+      <district name="嘉兴" code="210301" />
+      <district name="嘉善" code="210302" />
+      <district name="海宁" code="210303" />
+      <district name="桐乡" code="210304" />
+      <district name="平湖" code="210305" />
+      <district name="海盐" code="210306" />
+    </city>
+    <city name="宁波" code="2104">
+      <district name="宁波" code="210401" />
+      <district name="慈溪" code="210402" />
+      <district name="余姚" code="210403" />
+      <district name="奉化" code="210404" />
+      <district name="象山" code="210405" />
+      <district name="石浦" code="210406" />
+      <district name="宁海" code="210407" />
+      <district name="鄞县" code="210408" />
+    </city>
+    <city name="绍兴" code="2105">
+      <district name="绍兴" code="210501" />
+      <district name="诸暨" code="210502" />
+      <district name="上虞" code="210503" />
+      <district name="新昌" code="210504" />
+      <district name="嵊州" code="210505" />
+    </city>
+    <city name="台州" code="2106">
+      <district name="台州" code="210601" />
+      <district name="括苍山" code="210602" />
+      <district name="玉环" code="210603" />
+      <district name="三门" code="210604" />
+      <district name="天台" code="210605" />
+      <district name="仙居" code="210606" />
+      <district name="温岭" code="210607" />
+      <district name="大陈" code="210608" />
+      <district name="洪家" code="210609" />
+    </city>
+    <city name="温州" code="2107">
+      <district name="温州" code="210701" />
+      <district name="泰顺" code="210702" />
+      <district name="文成" code="210703" />
+      <district name="平阳" code="210704" />
+      <district name="瑞安" code="210705" />
+      <district name="洞头" code="210706" />
+      <district name="乐清" code="210707" />
+      <district name="永嘉" code="210708" />
+    </city>
+    <city name="丽水" code="2108">
+      <district name="丽水" code="210801" />
+      <district name="遂昌" code="210802" />
+      <district name="龙泉" code="210803" />
+      <district name="缙云" code="210804" />
+      <district name="青田" code="210805" />
+      <district name="云和" code="210806" />
+      <district name="庆元" code="210807" />
+      <district name="松阳" code="210808" />
+    </city>
+    <city name="金华" code="2109">
+      <district name="金华" code="210901" />
+      <district name="浦江" code="210902" />
+      <district name="兰溪" code="210903" />
+      <district name="义乌" code="210904" />
+      <district name="东阳" code="210905" />
+      <district name="武义" code="210906" />
+      <district name="永康" code="210907" />
+      <district name="磐安" code="210908" />
+    </city>
+    <city name="衢州" code="2110">
+      <district name="衢州" code="211001" />
+      <district name="常山" code="211002" />
+      <district name="开化" code="211003" />
+      <district name="龙游" code="211004" />
+      <district name="江山" code="211005" />
+    </city>
+    <city name="舟山" code="2111">
+      <district name="舟山" code="211101" />
+      <district name="嵊泗" code="211102" />
+      <district name="嵊山" code="211103" />
+      <district name="岱山" code="211104" />
+      <district name="普陀" code="211105" />
+    </city>
+  </province>
+  <province name="安徽" code="22">
+    <city name="合肥" code="2201">
+      <district name="合肥" code="220101" />
+      <district name="长丰" code="220102" />
+      <district name="肥东" code="220103" />
+      <district name="肥西" code="220104" />
+    </city>
+    <city name="蚌埠" code="2202">
+      <district name="蚌埠" code="220201" />
+      <district name="怀远" code="220202" />
+      <district name="固镇" code="220203" />
+      <district name="五河" code="220204" />
+    </city>
+    <city name="芜湖" code="2203">
+      <district name="芜湖" code="220301" />
+      <district name="繁昌" code="220302" />
+      <district name="芜湖县" code="220303" />
+      <district name="南陵" code="220304" />
+    </city>
+    <city name="淮南" code="2204">
+      <district name="淮南" code="220401" />
+      <district name="凤台" code="220402" />
+    </city>
+    <city name="马鞍山" code="2205">
+      <district name="马鞍山" code="220501" />
+      <district name="当涂" code="220502" />
+    </city>
+    <city name="安庆" code="2206">
+      <district name="安庆" code="220601" />
+      <district name="枞阳" code="220602" />
+      <district name="太湖" code="220603" />
+      <district name="潜山" code="220604" />
+      <district name="怀宁" code="220605" />
+      <district name="宿松" code="220606" />
+      <district name="望江" code="220607" />
+      <district name="岳西" code="220608" />
+      <district name="桐城" code="220609" />
+    </city>
+    <city name="宿州" code="2207">
+      <district name="宿州" code="220701" />
+      <district name="砀山" code="220702" />
+      <district name="灵璧" code="220703" />
+      <district name="泗县" code="220704" />
+      <district name="萧县" code="220705" />
+    </city>
+    <city name="阜阳" code="2208">
+      <district name="阜阳" code="220801" />
+      <district name="阜南" code="220802" />
+      <district name="颖上" code="220803" />
+      <district name="临泉" code="220804" />
+      <district name="界首" code="220805" />
+      <district name="太和" code="220806" />
+    </city>
+    <city name="亳州" code="2209">
+      <district name="亳州" code="220901" />
+      <district name="涡阳" code="220902" />
+      <district name="利辛" code="220903" />
+      <district name="蒙城" code="220904" />
+    </city>
+    <city name="黄山" code="2210">
+      <district name="黄山站" code="221001" />
+      <district name="黄山区" code="221002" />
+      <district name="屯溪" code="221003" />
+      <district name="祁门" code="221004" />
+      <district name="黟县" code="221005" />
+      <district name="歙县" code="221006" />
+      <district name="休宁" code="221007" />
+    </city>
+    <city name="滁州" code="2211">
+      <district name="滁州" code="221101" />
+      <district name="凤阳" code="221102" />
+      <district name="明光" code="221103" />
+      <district name="定远" code="221104" />
+      <district name="全椒" code="221105" />
+      <district name="来安" code="221106" />
+      <district name="天长" code="221107" />
+    </city>
+    <city name="淮北" code="2212">
+      <district name="淮北" code="221201" />
+      <district name="濉溪" code="221202" />
+    </city>
+    <city name="铜陵" code="2213">
+      <district name="铜陵" code="221301" />
+    </city>
+    <city name="宣城" code="2214">
+      <district name="宣城" code="221401" />
+      <district name="泾县" code="221402" />
+      <district name="旌德" code="221403" />
+      <district name="宁国" code="221404" />
+      <district name="绩溪" code="221405" />
+      <district name="广德" code="221406" />
+      <district name="郎溪" code="221407" />
+    </city>
+    <city name="六安" code="2215">
+      <district name="六安" code="221501" />
+      <district name="霍邱" code="221502" />
+      <district name="寿县" code="221503" />
+      <district name="南溪" code="221504" />
+      <district name="金寨" code="221505" />
+      <district name="霍山" code="221506" />
+      <district name="舒城" code="221507" />
+    </city>
+    <city name="巢湖" code="2216">
+      <district name="巢湖" code="221601" />
+      <district name="庐江" code="221602" />
+      <district name="无为" code="221603" />
+      <district name="含山" code="221604" />
+      <district name="和县" code="221605" />
+    </city>
+    <city name="池州" code="2217">
+      <district name="池州" code="221701" />
+      <district name="东至" code="221702" />
+      <district name="青阳" code="221703" />
+      <district name="九华山" code="221704" />
+      <district name="石台" code="221705" />
+    </city>
+  </province>
+  <province name="福建" code="23">
+    <city name="福州" code="2301">
+      <district name="福州" code="230101" />
+      <district name="闽清" code="230102" />
+      <district name="闽侯" code="230103" />
+      <district name="罗源" code="230104" />
+      <district name="连江" code="230105" />
+      <district name="马祖" code="230106" />
+      <district name="永泰" code="230107" />
+      <district name="平潭" code="230108" />
+      <district name="福州郊区" code="230109" />
+      <district name="长乐" code="230110" />
+      <district name="福清" code="230111" />
+      <district name="平潭海峡大桥" code="230112" />
+    </city>
+    <city name="厦门" code="2302">
+      <district name="厦门" code="230201" />
+      <district name="同安" code="230202" />
+    </city>
+    <city name="宁德" code="2303">
+      <district name="宁德" code="230301" />
+      <district name="古田" code="230302" />
+      <district name="霞浦" code="230303" />
+      <district name="寿宁" code="230304" />
+      <district name="周宁" code="230305" />
+      <district name="福安" code="230306" />
+      <district name="柘荣" code="230307" />
+      <district name="福鼎" code="230308" />
+      <district name="屏南" code="230309" />
+    </city>
+    <city name="莆田" code="2304">
+      <district name="莆田" code="230401" />
+      <district name="仙游" code="230402" />
+      <district name="秀屿港" code="230403" />
+    </city>
+    <city name="泉州" code="2305">
+      <district name="泉州" code="230501" />
+      <district name="安溪" code="230502" />
+      <district name="九仙山" code="230503" />
+      <district name="永春" code="230504" />
+      <district name="德化" code="230505" />
+      <district name="南安" code="230506" />
+      <district name="崇武" code="230507" />
+      <district name="金山" code="230508" />
+    </city>
+    <city name="漳州" code="2306">
+      <district name="漳州" code="230601" />
+      <district name="长泰" code="230602" />
+      <district name="南靖" code="230603" />
+      <district name="平和" code="230604" />
+      <district name="龙海" code="230605" />
+      <district name="漳浦" code="230606" />
+      <district name="诏安" code="230607" />
+      <district name="东山" code="230608" />
+      <district name="云霄" code="230609" />
+      <district name="华安" code="230610" />
+    </city>
+    <city name="龙岩" code="2307">
+      <district name="龙岩" code="230701" />
+      <district name="长汀" code="230702" />
+      <district name="连城" code="230703" />
+      <district name="武平" code="230704" />
+      <district name="上杭" code="230705" />
+      <district name="永定" code="230706" />
+      <district name="漳平" code="230707" />
+    </city>
+    <city name="三明" code="2308">
+      <district name="三明" code="230801" />
+      <district name="宁化" code="230802" />
+      <district name="清流" code="230803" />
+      <district name="泰宁" code="230804" />
+      <district name="将乐" code="230805" />
+      <district name="建宁" code="230806" />
+      <district name="明溪" code="230807" />
+      <district name="沙县" code="230808" />
+      <district name="尤溪" code="230809" />
+      <district name="永安" code="230810" />
+      <district name="大田" code="230811" />
+    </city>
+    <city name="南平" code="2309">
+      <district name="南平" code="230901" />
+      <district name="顺昌" code="230902" />
+      <district name="光泽" code="230903" />
+      <district name="邵武" code="230904" />
+      <district name="武夷山" code="230905" />
+      <district name="浦城" code="230906" />
+      <district name="建阳" code="230907" />
+      <district name="松溪" code="230908" />
+      <district name="政和" code="230909" />
+      <district name="建瓯" code="230910" />
+    </city>
+  </province>
+  <province name="江西" code="24">
+    <city name="南昌" code="2401">
+      <district name="南昌" code="240101" />
+      <district name="新建" code="240102" />
+      <district name="南昌县" code="240103" />
+      <district name="安义" code="240104" />
+      <district name="进贤" code="240105" />
+    </city>
+    <city name="九江" code="2402">
+      <district name="九江" code="240201" />
+      <district name="瑞昌" code="240202" />
+      <district name="庐山" code="240203" />
+      <district name="武宁" code="240204" />
+      <district name="德安" code="240205" />
+      <district name="永修" code="240206" />
+      <district name="湖口" code="240207" />
+      <district name="彭泽" code="240208" />
+      <district name="星子" code="240209" />
+      <district name="都昌" code="240210" />
+      <district name="棠荫" code="240211" />
+      <district name="修水" code="240212" />
+    </city>
+    <city name="上饶" code="2403">
+      <district name="上饶" code="240301" />
+      <district name="波阳" code="240302" />
+      <district name="婺源" code="240303" />
+      <district name="康山" code="240304" />
+      <district name="余干" code="240305" />
+      <district name="万年" code="240306" />
+      <district name="德兴" code="240307" />
+      <district name="上饶县" code="240308" />
+      <district name="弋阳" code="240309" />
+      <district name="横峰" code="240310" />
+      <district name="铅山" code="240311" />
+      <district name="玉山" code="240312" />
+      <district name="广丰" code="240313" />
+    </city>
+    <city name="抚州" code="2404">
+      <district name="抚州" code="240401" />
+      <district name="广昌" code="240402" />
+      <district name="乐安" code="240403" />
+      <district name="崇仁" code="240404" />
+      <district name="金溪" code="240405" />
+      <district name="资溪" code="240406" />
+      <district name="宜黄" code="240407" />
+      <district name="南城" code="240408" />
+      <district name="南丰" code="240409" />
+      <district name="黎川" code="240410" />
+      <district name="东乡" code="240411" />
+    </city>
+    <city name="宜春" code="2405">
+      <district name="宜春" code="240501" />
+      <district name="铜鼓" code="240502" />
+      <district name="宜丰" code="240503" />
+      <district name="万载" code="240504" />
+      <district name="上高" code="240505" />
+      <district name="靖安" code="240506" />
+      <district name="奉新" code="240507" />
+      <district name="高安" code="240508" />
+      <district name="樟树" code="240509" />
+      <district name="丰城" code="240510" />
+    </city>
+    <city name="吉安" code="2406">
+      <district name="吉安" code="240601" />
+      <district name="吉安县" code="240602" />
+      <district name="吉水" code="240603" />
+      <district name="新干" code="240604" />
+      <district name="峡江" code="240605" />
+      <district name="永丰" code="240606" />
+      <district name="永新" code="240607" />
+      <district name="井冈山" code="240608" />
+      <district name="万安" code="240609" />
+      <district name="遂川" code="240610" />
+      <district name="泰和" code="240611" />
+      <district name="安福" code="240612" />
+      <district name="宁冈" code="240613" />
+    </city>
+    <city name="赣州" code="2407">
+      <district name="赣州" code="240701" />
+      <district name="崇义" code="240702" />
+      <district name="上犹" code="240703" />
+      <district name="南康" code="240704" />
+      <district name="大余" code="240705" />
+      <district name="信丰" code="240706" />
+      <district name="宁都" code="240707" />
+      <district name="石城" code="240708" />
+      <district name="瑞金" code="240709" />
+      <district name="于都" code="240710" />
+      <district name="会昌" code="240711" />
+      <district name="安远" code="240712" />
+      <district name="全南" code="240713" />
+      <district name="龙南" code="240714" />
+      <district name="定南" code="240715" />
+      <district name="寻乌" code="240716" />
+    </city>
+    <city name="景德镇" code="2408">
+      <district name="景德镇" code="240801" />
+      <district name="乐平" code="240802" />
+    </city>
+    <city name="萍乡" code="2409">
+      <district name="萍乡" code="240901" />
+      <district name="莲花" code="240902" />
+    </city>
+    <city name="新余" code="2410">
+      <district name="新余" code="241001" />
+      <district name="分宜" code="241002" />
+    </city>
+    <city name="鹰潭" code="2411">
+      <district name="鹰潭" code="241101" />
+      <district name="余江" code="241102" />
+      <district name="贵溪" code="241103" />
+    </city>
+  </province>
+  <province name="湖南" code="25">
+    <city name="长沙" code="2501">
+      <district name="长沙" code="250101" />
+      <district name="宁乡" code="250102" />
+      <district name="浏阳" code="250103" />
+      <district name="马坡岭" code="250104" />
+    </city>
+    <city name="湘潭" code="2502">
+      <district name="湘潭" code="250201" />
+      <district name="韶山" code="250202" />
+      <district name="湘乡" code="250203" />
+    </city>
+    <city name="株洲" code="2503">
+      <district name="株洲" code="250301" />
+      <district name="攸县" code="250302" />
+      <district name="醴陵" code="250303" />
+      <district name="株洲县" code="250304" />
+      <district name="茶陵" code="250305" />
+      <district name="炎陵" code="250306" />
+    </city>
+    <city name="衡阳" code="2504">
+      <district name="衡阳" code="250401" />
+      <district name="衡山" code="250402" />
+      <district name="衡东" code="250403" />
+      <district name="祁东" code="250404" />
+      <district name="衡阳县" code="250405" />
+      <district name="常宁" code="250406" />
+      <district name="衡南" code="250407" />
+      <district name="耒阳" code="250408" />
+      <district name="南岳" code="250409" />
+    </city>
+    <city name="郴州" code="2505">
+      <district name="郴州" code="250501" />
+      <district name="桂阳" code="250502" />
+      <district name="嘉禾" code="250503" />
+      <district name="宜章" code="250504" />
+      <district name="临武" code="250505" />
+      <district name="桥口" code="250506" />
+      <district name="资兴" code="250507" />
+      <district name="汝城" code="250508" />
+      <district name="安仁" code="250509" />
+      <district name="永兴" code="250510" />
+      <district name="桂东" code="250511" />
+    </city>
+    <city name="常德" code="2506">
+      <district name="常德" code="250601" />
+      <district name="安乡" code="250602" />
+      <district name="桃源" code="250603" />
+      <district name="汉寿" code="250604" />
+      <district name="澧县" code="250605" />
+      <district name="临澧" code="250606" />
+      <district name="石门" code="250607" />
+    </city>
+    <city name="益阳" code="2507">
+      <district name="赫山区" code="250701" />
+      <district name="南县" code="250702" />
+      <district name="桃江" code="250703" />
+      <district name="安化" code="250704" />
+      <district name="沅江" code="250705" />
+    </city>
+    <city name="娄底" code="2508">
+      <district name="娄底" code="250801" />
+      <district name="双峰" code="250802" />
+      <district name="冷水江" code="250803" />
+      <district name="冷水滩" code="250804" />
+      <district name="新化" code="250805" />
+      <district name="涟源" code="250806" />
+    </city>
+    <city name="邵阳" code="2509">
+      <district name="邵阳" code="250901" />
+      <district name="隆回" code="250902" />
+      <district name="洞口" code="250903" />
+      <district name="新邵" code="250904" />
+      <district name="邵东" code="250905" />
+      <district name="绥宁" code="250906" />
+      <district name="新宁" code="250907" />
+      <district name="武冈" code="250908" />
+      <district name="城步" code="250909" />
+      <district name="邵阳县" code="250910" />
+    </city>
+    <city name="岳阳" code="2510">
+      <district name="岳阳" code="251001" />
+      <district name="华容" code="251002" />
+      <district name="湘阴" code="251003" />
+      <district name="汨罗" code="251004" />
+      <district name="平江" code="251005" />
+      <district name="临湘" code="251006" />
+    </city>
+    <city name="张家界" code="2511">
+      <district name="张家界" code="251101" />
+      <district name="桑植" code="251102" />
+      <district name="慈利" code="251103" />
+    </city>
+    <city name="怀化" code="2512">
+      <district name="怀化" code="251201" />
+      <district name="鹤城区" code="251202" />
+      <district name="沅陵" code="251203" />
+      <district name="辰溪" code="251204" />
+      <district name="靖州" code="251205" />
+      <district name="会同" code="251206" />
+      <district name="通道" code="251207" />
+      <district name="麻阳" code="251208" />
+      <district name="新晃" code="251209" />
+      <district name="芷江" code="251210" />
+      <district name="溆浦" code="251211" />
+    </city>
+    <city name="黔阳" code="2513">
+      <district name="黔阳" code="251301" />
+    </city>
+    <city name="永州" code="2514">
+      <district name="永州" code="251401" />
+      <district name="祁阳" code="251402" />
+      <district name="东安" code="251403" />
+      <district name="双牌" code="251404" />
+      <district name="道县" code="251405" />
+      <district name="宁远" code="251406" />
+      <district name="江永" code="251407" />
+      <district name="蓝山" code="251408" />
+      <district name="新田" code="251409" />
+      <district name="江华" code="251410" />
+    </city>
+    <city name="湘西" code="2515">
+      <district name="吉首" code="251501" />
+      <district name="保靖" code="251502" />
+      <district name="永顺" code="251503" />
+      <district name="古丈" code="251504" />
+      <district name="凤凰" code="251505" />
+      <district name="泸溪" code="251506" />
+      <district name="龙山" code="251507" />
+      <district name="花垣" code="251508" />
+    </city>
+  </province>
+  <province name="贵州" code="26">
+    <city name="贵阳" code="2601">
+      <district name="贵阳" code="260101" />
+      <district name="白云" code="260102" />
+      <district name="花溪" code="260103" />
+      <district name="乌当" code="260104" />
+      <district name="息烽" code="260105" />
+      <district name="开阳" code="260106" />
+      <district name="修文" code="260107" />
+      <district name="清镇" code="260108" />
+    </city>
+    <city name="遵义" code="2602">
+      <district name="遵义" code="260201" />
+      <district name="遵义县" code="260202" />
+      <district name="仁怀" code="260203" />
+      <district name="绥阳" code="260204" />
+      <district name="湄潭" code="260205" />
+      <district name="凤冈" code="260206" />
+      <district name="桐梓" code="260207" />
+      <district name="赤水" code="260208" />
+      <district name="习水" code="260209" />
+      <district name="道真" code="260210" />
+      <district name="正安" code="260211" />
+      <district name="务川" code="260212" />
+      <district name="余庆" code="260213" />
+    </city>
+    <city name="安顺" code="2603">
+      <district name="安顺" code="260301" />
+      <district name="普定" code="260302" />
+      <district name="镇宁" code="260303" />
+      <district name="平坝" code="260304" />
+      <district name="紫云" code="260305" />
+      <district name="关岭" code="260306" />
+    </city>
+    <city name="黔南" code="2604">
+      <district name="都匀" code="260401" />
+      <district name="贵定" code="260402" />
+      <district name="瓮安" code="260403" />
+      <district name="长顺" code="260404" />
+      <district name="福泉" code="260405" />
+      <district name="惠水" code="260406" />
+      <district name="龙里" code="260407" />
+      <district name="罗甸" code="260408" />
+      <district name="平塘" code="260409" />
+      <district name="独山" code="260410" />
+      <district name="三都" code="260411" />
+      <district name="荔波" code="260412" />
+    </city>
+    <city name="黔东南" code="2605">
+      <district name="凯里" code="260501" />
+      <district name="岑巩" code="260502" />
+      <district name="施秉" code="260503" />
+      <district name="镇远" code="260504" />
+      <district name="黄平" code="260505" />
+      <district name="从江" code="260506" />
+      <district name="麻江" code="260507" />
+      <district name="丹寨" code="260508" />
+      <district name="三穗" code="260509" />
+      <district name="台江" code="260510" />
+      <district name="剑河" code="260511" />
+      <district name="雷山" code="260512" />
+      <district name="黎平" code="260513" />
+      <district name="天柱" code="260514" />
+      <district name="锦屏" code="260515" />
+      <district name="榕江" code="260516" />
+    </city>
+    <city name="铜仁" code="2606">
+      <district name="铜仁" code="260601" />
+      <district name="江口" code="260602" />
+      <district name="玉屏" code="260603" />
+      <district name="万山" code="260604" />
+      <district name="思南" code="260605" />
+      <district name="松桃" code="260606" />
+      <district name="印江" code="260607" />
+      <district name="石阡" code="260608" />
+      <district name="沿河" code="260609" />
+      <district name="德江" code="260610" />
+    </city>
+    <city name="毕节" code="2607">
+      <district name="毕节" code="260701" />
+      <district name="赫章" code="260702" />
+      <district name="金沙" code="260703" />
+      <district name="威宁" code="260704" />
+      <district name="大方" code="260705" />
+      <district name="纳雍" code="260706" />
+      <district name="织金" code="260707" />
+      <district name="黔西县" code="260708" />
+    </city>
+    <city name="六盘水" code="2608">
+      <district name="水城" code="260801" />
+      <district name="六枝" code="260802" />
+      <district name="盘县" code="260803" />
+    </city>
+    <city name="黔西南" code="2609">
+      <district name="普安" code="260901" />
+      <district name="晴隆" code="260902" />
+      <district name="兴仁" code="260903" />
+      <district name="贞丰" code="260904" />
+      <district name="望谟" code="260905" />
+      <district name="兴义" code="260906" />
+      <district name="安龙" code="260907" />
+      <district name="册亨" code="260908" />
+    </city>
+  </province>
+  <province name="四川" code="27">
+    <city name="成都" code="2701">
+      <district name="成都" code="270101" />
+      <district name="龙泉驿" code="270102" />
+      <district name="新都" code="270103" />
+      <district name="温江" code="270104" />
+      <district name="金堂" code="270105" />
+      <district name="双流" code="270106" />
+      <district name="郫县" code="270107" />
+      <district name="大邑" code="270108" />
+      <district name="蒲江" code="270109" />
+      <district name="新津" code="270110" />
+      <district name="都江堰" code="270111" />
+      <district name="彭州" code="270112" />
+      <district name="邛崃" code="270113" />
+      <district name="崇州" code="270114" />
+    </city>
+    <city name="攀枝花" code="2702">
+      <district name="攀枝花" code="270201" />
+      <district name="仁和" code="270202" />
+      <district name="米易" code="270203" />
+      <district name="盐边" code="270204" />
+    </city>
+    <city name="自贡" code="2703">
+      <district name="自贡" code="270301" />
+      <district name="富顺" code="270302" />
+      <district name="荣县" code="270303" />
+    </city>
+    <city name="绵阳" code="2704">
+      <district name="绵阳" code="270401" />
+      <district name="三台" code="270402" />
+      <district name="盐亭" code="270403" />
+      <district name="安县" code="270404" />
+      <district name="梓潼" code="270405" />
+      <district name="北川" code="270406" />
+      <district name="平武" code="270407" />
+      <district name="江油" code="270408" />
+    </city>
+    <city name="南充" code="2705">
+      <district name="南充" code="270501" />
+      <district name="南部" code="270502" />
+      <district name="营山" code="270503" />
+      <district name="蓬安" code="270504" />
+      <district name="仪陇" code="270505" />
+      <district name="西充" code="270506" />
+      <district name="阆中" code="270507" />
+    </city>
+    <city name="达州" code="2706">
+      <district name="达州" code="270601" />
+      <district name="宣汉" code="270602" />
+      <district name="开江" code="270603" />
+      <district name="大竹" code="270604" />
+      <district name="渠县" code="270605" />
+      <district name="万源" code="270606" />
+    </city>
+    <city name="遂宁" code="2707">
+      <district name="遂宁" code="270701" />
+      <district name="蓬溪" code="270702" />
+      <district name="射洪" code="270703" />
+    </city>
+    <city name="广安" code="2708">
+      <district name="广安" code="270801" />
+      <district name="岳池" code="270802" />
+      <district name="武胜" code="270803" />
+      <district name="邻水" code="270804" />
+    </city>
+    <city name="巴中" code="2709">
+      <district name="巴中" code="270901" />
+      <district name="通江" code="270902" />
+      <district name="南江" code="270903" />
+      <district name="平昌" code="270904" />
+    </city>
+    <city name="泸州" code="2710">
+      <district name="泸州" code="271001" />
+      <district name="泸县" code="271002" />
+      <district name="合江" code="271003" />
+      <district name="叙永" code="271004" />
+      <district name="古蔺" code="271005" />
+    </city>
+    <city name="宜宾" code="2711">
+      <district name="宜宾" code="271101" />
+      <district name="宜宾农试站" code="271102" />
+      <district name="宜宾县" code="271103" />
+      <district name="南溪" code="271104" />
+      <district name="江安" code="271105" />
+      <district name="长宁" code="271106" />
+      <district name="高县" code="271107" />
+      <district name="珙县" code="271108" />
+      <district name="筠连" code="271109" />
+      <district name="兴文" code="271110" />
+      <district name="屏山" code="271111" />
+    </city>
+    <city name="内江" code="2712">
+      <district name="内江" code="271201" />
+      <district name="东兴" code="271202" />
+      <district name="威远" code="271203" />
+      <district name="资中" code="271204" />
+      <district name="隆昌" code="271205" />
+    </city>
+    <city name="资阳" code="2713">
+      <district name="资阳" code="271301" />
+      <district name="安岳" code="271302" />
+      <district name="乐至" code="271303" />
+      <district name="简阳" code="271304" />
+    </city>
+    <city name="乐山" code="2714">
+      <district name="乐山" code="271401" />
+      <district name="犍为" code="271402" />
+      <district name="井研" code="271403" />
+      <district name="夹江" code="271404" />
+      <district name="沐川" code="271405" />
+      <district name="峨边" code="271406" />
+      <district name="马边" code="271407" />
+      <district name="峨眉" code="271408" />
+      <district name="峨眉山" code="271409" />
+    </city>
+    <city name="眉山" code="2715">
+      <district name="眉山" code="271501" />
+      <district name="仁寿" code="271502" />
+      <district name="彭山" code="271503" />
+      <district name="洪雅" code="271504" />
+      <district name="丹棱" code="271505" />
+      <district name="青神" code="271506" />
+    </city>
+    <city name="凉山" code="2716">
+      <district name="凉山" code="271601" />
+      <district name="木里" code="271602" />
+      <district name="盐源" code="271603" />
+      <district name="德昌" code="271604" />
+      <district name="会理" code="271605" />
+      <district name="会东" code="271606" />
+      <district name="宁南" code="271607" />
+      <district name="普格" code="271608" />
+      <district name="金阳" code="271609" />
+      <district name="昭觉" code="271610" />
+      <district name="喜德" code="271611" />
+      <district name="冕宁" code="271612" />
+      <district name="越西" code="271613" />
+      <district name="甘洛" code="271614" />
+      <district name="雷波" code="271615" />
+      <district name="美姑" code="271616" />
+    </city>
+    <city name="雅安" code="2717">
+      <district name="雅安" code="271701" />
+      <district name="名山" code="271702" />
+      <district name="荣经" code="271703" />
+      <district name="汉源" code="271704" />
+      <district name="石棉" code="271705" />
+      <district name="天全" code="271706" />
+      <district name="芦山" code="271707" />
+      <district name="宝兴" code="271708" />
+    </city>
+    <city name="甘孜" code="2718">
+      <district name="甘孜" code="271801" />
+      <district name="康定" code="271802" />
+      <district name="泸定" code="271803" />
+      <district name="丹巴" code="271804" />
+      <district name="九龙" code="271805" />
+      <district name="雅江" code="271806" />
+      <district name="道孚" code="271807" />
+      <district name="炉霍" code="271808" />
+      <district name="新龙" code="271809" />
+      <district name="德格" code="271810" />
+      <district name="白玉" code="271811" />
+      <district name="石渠" code="271812" />
+      <district name="色达" code="271813" />
+      <district name="理塘" code="271814" />
+      <district name="巴塘" code="271815" />
+      <district name="乡城" code="271816" />
+      <district name="稻城" code="271817" />
+      <district name="得荣" code="271818" />
+    </city>
+    <city name="阿坝" code="2719">
+      <district name="阿坝" code="271901" />
+      <district name="汶川" code="271902" />
+      <district name="理县" code="271903" />
+      <district name="茂县" code="271904" />
+      <district name="松潘" code="271905" />
+      <district name="九寨沟" code="271906" />
+      <district name="金川" code="271907" />
+      <district name="小金" code="271908" />
+      <district name="黑水" code="271909" />
+      <district name="马尔康" code="271910" />
+      <district name="壤塘" code="271911" />
+      <district name="若尔盖" code="271912" />
+      <district name="红原" code="271913" />
+    </city>
+    <city name="德阳" code="2720">
+      <district name="德阳" code="272001" />
+      <district name="中江" code="272002" />
+      <district name="广汉" code="272003" />
+      <district name="什邡" code="272004" />
+      <district name="绵竹" code="272005" />
+    </city>
+    <city name="广元" code="2721">
+      <district name="广元" code="272101" />
+      <district name="旺苍" code="272102" />
+      <district name="青川" code="272103" />
+      <district name="剑阁" code="272104" />
+      <district name="苍溪" code="272105" />
+    </city>
+  </province>
+  <province name="广东" code="28">
+    <city name="广州" code="2801">
+      <district name="广州" code="280101" />
+      <district name="番禺" code="280102" />
+      <district name="从化" code="280103" />
+      <district name="增城" code="280104" />
+      <district name="花都" code="280105" />
+      <district name="天河" code="280106" />
+    </city>
+    <city name="韶关" code="2802">
+      <district name="韶关" code="280201" />
+      <district name="乳源" code="280202" />
+      <district name="始兴" code="280203" />
+      <district name="翁源" code="280204" />
+      <district name="乐昌" code="280205" />
+      <district name="仁化" code="280206" />
+      <district name="南雄" code="280207" />
+      <district name="新丰" code="280208" />
+    </city>
+    <city name="惠州" code="2803">
+      <district name="惠州" code="280301" />
+      <district name="博罗" code="280302" />
+      <district name="惠东" code="280303" />
+      <district name="龙门" code="280304" />
+    </city>
+    <city name="梅州" code="2804">
+      <district name="梅州" code="280401" />
+      <district name="兴宁" code="280402" />
+      <district name="蕉岭" code="280403" />
+      <district name="大埔" code="280404" />
+      <district name="丰顺" code="280405" />
+      <district name="平远" code="280406" />
+      <district name="五华" code="280407" />
+    </city>
+    <city name="汕头" code="2805">
+      <district name="汕头" code="280501" />
+      <district name="潮阳" code="280502" />
+      <district name="澄海" code="280503" />
+      <district name="南澳" code="280504" />
+    </city>
+    <city name="深圳" code="2806">
+      <district name="深圳" code="280601" />
+    </city>
+    <city name="珠海" code="2807">
+      <district name="珠海" code="280701" />
+      <district name="斗门" code="280702" />
+      <district name="黄茅洲" code="280703" />
+    </city>
+    <city name="佛山" code="2808">
+      <district name="顺德" code="280801" />
+      <district name="三水" code="280802" />
+      <district name="南海" code="280803" />
+    </city>
+    <city name="肇庆" code="2809">
+      <district name="肇庆" code="280901" />
+      <district name="广宁" code="280902" />
+      <district name="四会" code="280903" />
+      <district name="德庆" code="280904" />
+      <district name="怀集" code="280905" />
+      <district name="封开" code="280906" />
+    </city>
+    <city name="湛江" code="2810">
+      <district name="湛江" code="281001" />
+      <district name="吴川" code="281002" />
+      <district name="雷州" code="281003" />
+      <district name="徐闻" code="281004" />
+      <district name="廉江" code="281005" />
+      <district name="硇洲" code="281006" />
+      <district name="遂溪" code="281007" />
+    </city>
+    <city name="江门" code="2811">
+      <district name="江门" code="281101" />
+      <district name="开平" code="281102" />
+      <district name="新会" code="281103" />
+      <district name="恩平" code="281104" />
+      <district name="台山" code="281105" />
+      <district name="上川岛" code="281106" />
+      <district name="鹤山" code="281107" />
+    </city>
+    <city name="河源" code="2812">
+      <district name="河源" code="281201" />
+      <district name="紫金" code="281202" />
+      <district name="连平" code="281203" />
+      <district name="和平" code="281204" />
+      <district name="龙川" code="281205" />
+    </city>
+    <city name="清远" code="2813">
+      <district name="清远" code="281301" />
+      <district name="连南" code="281302" />
+      <district name="连州" code="281303" />
+      <district name="连山" code="281304" />
+      <district name="阳山" code="281305" />
+      <district name="佛冈" code="281306" />
+      <district name="英德" code="281307" />
+    </city>
+    <city name="云浮" code="2814">
+      <district name="云浮" code="281401" />
+      <district name="罗定" code="281402" />
+      <district name="新兴" code="281403" />
+      <district name="郁南" code="281404" />
+    </city>
+    <city name="潮州" code="2815">
+      <district name="潮州" code="281501" />
+      <district name="饶平" code="281502" />
+    </city>
+    <city name="东莞" code="2816">
+      <district name="东莞" code="281601" />
+    </city>
+    <city name="中山" code="2817">
+      <district name="中山" code="281701" />
+    </city>
+    <city name="阳江" code="2818">
+      <district name="阳江" code="281801" />
+      <district name="阳春" code="281802" />
+    </city>
+    <city name="揭阳" code="2819">
+      <district name="揭阳" code="281901" />
+      <district name="揭西" code="281902" />
+      <district name="普宁" code="281903" />
+      <district name="惠来" code="281904" />
+    </city>
+    <city name="茂名" code="2820">
+      <district name="茂名" code="282001" />
+      <district name="高州" code="282002" />
+      <district name="化州" code="282003" />
+      <district name="电白" code="282004" />
+      <district name="信宜" code="282005" />
+    </city>
+    <city name="汕尾" code="2821">
+      <district name="汕尾" code="282101" />
+      <district name="海丰" code="282102" />
+      <district name="陆丰" code="282103" />
+      <district name="遮浪" code="282104" />
+    </city>
+    <city name="东沙岛" code="2822">
+      <district name="东沙岛" code="282201" />
+    </city>
+  </province>
+  <province name="云南" code="29">
+    <city name="昆明" code="2901">
+      <district name="昆明" code="290101" />
+      <district name="昆明农试站" code="290102" />
+      <district name="东川" code="290103" />
+      <district name="寻甸" code="290104" />
+      <district name="晋宁" code="290105" />
+      <district name="宜良" code="290106" />
+      <district name="石林" code="290107" />
+      <district name="呈贡" code="290108" />
+      <district name="富民" code="290109" />
+      <district name="嵩明" code="290110" />
+      <district name="禄劝" code="290111" />
+      <district name="安宁" code="290112" />
+      <district name="太华山" code="290113" />
+      <district name="河口" code="290114" />
+    </city>
+    <city name="大理" code="2902">
+      <district name="大理" code="290201" />
+      <district name="云龙" code="290202" />
+      <district name="漾濞" code="290203" />
+      <district name="永平" code="290204" />
+      <district name="宾川" code="290205" />
+      <district name="弥渡" code="290206" />
+      <district name="祥云" code="290207" />
+      <district name="魏山" code="290208" />
+      <district name="剑川" code="290209" />
+      <district name="洱源" code="290210" />
+      <district name="鹤庆" code="290211" />
+      <district name="南涧" code="290212" />
+    </city>
+    <city name="红河" code="2903">
+      <district name="红河" code="290301" />
+      <district name="石屏" code="290302" />
+      <district name="建水" code="290303" />
+      <district name="弥勒" code="290304" />
+      <district name="元阳" code="290305" />
+      <district name="绿春" code="290306" />
+      <district name="开远" code="290307" />
+      <district name="个旧" code="290308" />
+      <district name="蒙自" code="290309" />
+      <district name="屏边" code="290310" />
+      <district name="泸西" code="290311" />
+      <district name="金平" code="290312" />
+    </city>
+    <city name="曲靖" code="2904">
+      <district name="曲靖" code="290401" />
+      <district name="沾益" code="290402" />
+      <district name="陆良" code="290403" />
+      <district name="富源" code="290404" />
+      <district name="马龙" code="290405" />
+      <district name="师宗" code="290406" />
+      <district name="罗平" code="290407" />
+      <district name="会泽" code="290408" />
+      <district name="宣威" code="290409" />
+    </city>
+    <city name="保山" code="2905">
+      <district name="保山" code="290501" />
+      <district name="龙陵" code="290502" />
+      <district name="施甸" code="290503" />
+      <district name="昌宁" code="290504" />
+      <district name="腾冲" code="290505" />
+    </city>
+    <city name="文山" code="2906">
+      <district name="文山" code="290601" />
+      <district name="西畴" code="290602" />
+      <district name="马关" code="290603" />
+      <district name="麻栗坡" code="290604" />
+      <district name="砚山" code="290605" />
+      <district name="邱北" code="290606" />
+      <district name="广南" code="290607" />
+      <district name="富宁" code="290608" />
+    </city>
+    <city name="玉溪" code="2907">
+      <district name="玉溪" code="290701" />
+      <district name="澄江" code="290702" />
+      <district name="江川" code="290703" />
+      <district name="通海" code="290704" />
+      <district name="华宁" code="290705" />
+      <district name="新平" code="290706" />
+      <district name="易门" code="290707" />
+      <district name="峨山" code="290708" />
+      <district name="元江" code="290709" />
+    </city>
+    <city name="楚雄" code="2908">
+      <district name="楚雄" code="290801" />
+      <district name="大姚" code="290802" />
+      <district name="元谋" code="290803" />
+      <district name="姚安" code="290804" />
+      <district name="牟定" code="290805" />
+      <district name="南华" code="290806" />
+      <district name="武定" code="290807" />
+      <district name="禄丰" code="290808" />
+      <district name="双柏" code="290809" />
+      <district name="永仁" code="290810" />
+    </city>
+    <city name="思茅" code="2909">
+      <district name="思茅" code="290901" />
+      <district name="景谷" code="290902" />
+      <district name="景东" code="290903" />
+      <district name="澜沧" code="290904" />
+      <district name="普洱" code="290905" />
+      <district name="墨江" code="290906" />
+      <district name="江城" code="290907" />
+      <district name="孟连" code="290908" />
+      <district name="西盟" code="290909" />
+      <district name="镇源" code="290910" />
+    </city>
+    <city name="昭通" code="2910">
+      <district name="昭通" code="291001" />
+      <district name="鲁甸" code="291002" />
+      <district name="彝良" code="291003" />
+      <district name="镇雄" code="291004" />
+      <district name="威信" code="291005" />
+      <district name="巧家" code="291006" />
+      <district name="绥江" code="291007" />
+      <district name="永善" code="291008" />
+      <district name="盐津" code="291009" />
+      <district name="大观" code="291010" />
+    </city>
+    <city name="临沧" code="2911">
+      <district name="临沧" code="291101" />
+      <district name="沧源" code="291102" />
+      <district name="耿马" code="291103" />
+      <district name="双江" code="291104" />
+      <district name="凤庆" code="291105" />
+      <district name="永德" code="291106" />
+      <district name="云县" code="291107" />
+      <district name="镇康" code="291108" />
+    </city>
+    <city name="怒江" code="2912">
+      <district name="怒江" code="291201" />
+      <district name="福贡" code="291202" />
+      <district name="兰坪" code="291203" />
+      <district name="泸水" code="291204" />
+      <district name="六库" code="291205" />
+    </city>
+    <city name="迪庆" code="2913">
+      <district name="香格里拉" code="291301" />
+      <district name="德钦" code="291302" />
+      <district name="维西" code="291303" />
+    </city>
+    <city name="丽江" code="2914">
+      <district name="丽江" code="291401" />
+      <district name="永胜" code="291402" />
+      <district name="华坪" code="291403" />
+      <district name="宁蒗" code="291404" />
+    </city>
+    <city name="德宏" code="2915">
+      <district name="德宏" code="291501" />
+      <district name="潞江坝" code="291502" />
+      <district name="陇川" code="291503" />
+      <district name="盈江" code="291504" />
+      <district name="畹町镇" code="291505" />
+      <district name="瑞丽" code="291506" />
+      <district name="梁河" code="291507" />
+    </city>
+    <city name="西双版纳" code="2916">
+      <district name="景洪" code="291601" />
+      <district name="大勐龙" code="291602" />
+      <district name="勐海" code="291603" />
+      <district name="景洪电站" code="291604" />
+      <district name="猛腊" code="291605" />
+    </city>
+  </province>
+  <province name="广西" code="30">
+    <city name="南宁" code="3001">
+      <district name="南宁" code="300101" />
+      <district name="邕宁" code="300102" />
+      <district name="横县" code="300103" />
+      <district name="隆安" code="300104" />
+      <district name="马山" code="300105" />
+      <district name="上林" code="300106" />
+      <district name="武鸣" code="300107" />
+      <district name="宾阳" code="300108" />
+    </city>
+    <city name="崇左" code="3002">
+      <district name="崇左" code="300201" />
+      <district name="天等" code="300202" />
+      <district name="龙州" code="300203" />
+      <district name="凭祥" code="300204" />
+      <district name="大新" code="300205" />
+      <district name="扶绥" code="300206" />
+      <district name="宁明" code="300207" />
+    </city>
+    <city name="柳州" code="3003">
+      <district name="柳州" code="300301" />
+      <district name="柳城" code="300302" />
+      <district name="三江" code="300303" />
+      <district name="鹿寨" code="300304" />
+      <district name="柳江" code="300305" />
+      <district name="融安" code="300306" />
+      <district name="融水" code="300307" />
+    </city>
+    <city name="来宾" code="3004">
+      <district name="来宾" code="300401" />
+      <district name="忻城" code="300402" />
+      <district name="金秀" code="300403" />
+      <district name="象州" code="300404" />
+      <district name="武宣" code="300405" />
+      <district name="台山" code="300406" />
+    </city>
+    <city name="桂林" code="3005">
+      <district name="桂林" code="300501" />
+      <district name="资源" code="300514" />
+      <district name="龙胜" code="300503" />
+      <district name="永福" code="300504" />
+      <district name="临桂" code="300505" />
+      <district name="兴安" code="300506" />
+      <district name="灵川" code="300507" />
+      <district name="全州" code="300508" />
+      <district name="灌阳" code="300509" />
+      <district name="阳朔" code="300510" />
+      <district name="恭城" code="300511" />
+      <district name="平乐" code="300512" />
+      <district name="荔浦" code="300513" />
+    </city>
+    <city name="梧州" code="3006">
+      <district name="梧州" code="300601" />
+      <district name="藤县" code="300602" />
+      <district name="岑溪" code="300606" />
+      <district name="苍梧" code="300604" />
+      <district name="蒙山" code="300605" />
+    </city>
+    <city name="贺州" code="3007">
+      <district name="贺州" code="300701" />
+      <district name="昭平" code="300702" />
+      <district name="富川" code="300703" />
+      <district name="钟山" code="300704" />
+    </city>
+    <city name="贵港" code="3008">
+      <district name="贵港" code="300801" />
+      <district name="桂平" code="300802" />
+      <district name="平南" code="300803" />
+    </city>
+    <city name="玉林" code="3009">
+      <district name="玉林" code="300901" />
+      <district name="博白" code="300902" />
+      <district name="北流" code="300903" />
+      <district name="容县" code="300904" />
+      <district name="陆川" code="300905" />
+      <district name="兴业" code="300906" />
+    </city>
+    <city name="百色" code="3010">
+      <district name="百色" code="301001" />
+      <district name="那坡" code="301002" />
+      <district name="田阳" code="301003" />
+      <district name="德保" code="301004" />
+      <district name="靖西" code="301005" />
+      <district name="田东" code="301006" />
+      <district name="平果" code="301007" />
+      <district name="隆林" code="301008" />
+      <district name="西林" code="301009" />
+      <district name="乐业" code="301010" />
+      <district name="凌云" code="301011" />
+      <district name="田林" code="301012" />
+    </city>
+    <city name="钦州" code="3011">
+      <district name="钦州" code="301101" />
+      <district name="浦北" code="301102" />
+      <district name="灵山" code="301103" />
+    </city>
+    <city name="河池" code="3012">
+      <district name="河池" code="301201" />
+      <district name="天峨" code="301202" />
+      <district name="东兰" code="301203" />
+      <district name="巴马" code="301204" />
+      <district name="环江" code="301205" />
+      <district name="罗城" code="301206" />
+      <district name="宜州" code="301207" />
+      <district name="凤山" code="301208" />
+      <district name="南丹" code="301209" />
+      <district name="都安" code="301210" />
+      <district name="大化" code="301211" />
+    </city>
+    <city name="北海" code="3013">
+      <district name="北海" code="301301" />
+      <district name="合浦" code="301302" />
+      <district name="涠洲岛" code="301303" />
+    </city>
+    <city name="防城港" code="3014">
+      <district name="防城港" code="301401" />
+      <district name="上思" code="301402" />
+      <district name="东兴" code="301403" />
+      <district name="防城" code="301404" />
+    </city>
+  </province>
+  <province name="海南" code="31">
+    <city name="海口" code="3101">
+      <district name="海口" code="310101" />
+    </city>
+    <city name="琼山" code="3102">
+      <district name="琼山" code="310201" />
+    </city>
+    <city name="三亚" code="3103">
+      <district name="三亚" code="310301" />
+    </city>
+    <city name="东方" code="3104">
+      <district name="东方" code="310401" />
+    </city>
+    <city name="临高" code="3105">
+      <district name="临高" code="310501" />
+    </city>
+    <city name="澄迈" code="3106">
+      <district name="澄迈" code="310601" />
+    </city>
+    <city name="儋州" code="3107">
+      <district name="儋州" code="310701" />
+    </city>
+    <city name="昌江" code="3108">
+      <district name="昌江" code="310801" />
+    </city>
+    <city name="白沙" code="3109">
+      <district name="白沙" code="310901" />
+    </city>
+    <city name="琼中" code="3110">
+      <district name="琼中" code="311001" />
+    </city>
+    <city name="定安" code="3111">
+      <district name="定安" code="311101" />
+    </city>
+    <city name="屯昌" code="3112">
+      <district name="屯昌" code="311201" />
+    </city>
+    <city name="琼海" code="3113">
+      <district name="琼海" code="311301" />
+    </city>
+    <city name="文昌" code="3114">
+      <district name="文昌" code="311401" />
+    </city>
+    <city name="清兰" code="3115">
+      <district name="清兰" code="311501" />
+    </city>
+    <city name="保亭" code="3116">
+      <district name="保亭" code="311601" />
+    </city>
+    <city name="万宁" code="3117">
+      <district name="万宁" code="311701" />
+    </city>
+    <city name="陵水" code="3118">
+      <district name="陵水" code="311801" />
+    </city>
+    <city name="西沙" code="3119">
+      <district name="西沙" code="311901" />
+    </city>
+    <city name="珊瑚岛" code="3120">
+      <district name="珊瑚岛" code="312001" />
+    </city>
+    <city name="永署礁" code="3121">
+      <district name="永署礁" code="312101" />
+    </city>
+    <city name="南沙岛" code="3122">
+      <district name="南沙岛" code="312201" />
+    </city>
+    <city name="乐东" code="3123">
+      <district name="乐东" code="312301" />
+    </city>
+    <city name="通什" code="3124">
+      <district name="通什" code="312401" />
+    </city>
+  </province>
+  <province name="香港" code="32">
+    <city name="香港" code="3201">
+      <district name="香港" code="320101" />
+      <district name="九龙" code="320102" />
+      <district name="新界" code="320103" />
+      <district name="中环" code="320104" />
+      <district name="铜锣湾" code="320105" />
+    </city>
+  </province>
+  <province name="澳门" code="33">
+    <city name="澳门" code="3301">
+      <district name="澳门" code="330101" />
+    </city>
+  </province>
+  <province name="台湾" code="34">
+    <city name="台北" code="3401">
+      <district name="台北县" code="340101" />
+      <district name="台北市" code="340102" />
+    </city>
+    <city name="高雄" code="3402">
+      <district name="高雄" code="340201" />
+      <district name="东港" code="340202" />
+      <district name="大武" code="340203" />
+      <district name="恒春" code="340204" />
+      <district name="兰屿" code="340205" />
+    </city>
+    <city name="台南" code="3403">
+      <district name="台南" code="340301" />
+    </city>
+    <city name="台中" code="3404">
+      <district name="台中" code="340401" />
+    </city>
+    <city name="桃园" code="3405">
+      <district name="桃园" code="340501" />
+    </city>
+    <city name="新竹" code="3406">
+      <district name="新竹县" code="340601" />
+      <district name="新竹市" code="340602" />
+      <district name="公馆" code="340603" />
+    </city>
+    <city name="宜兰" code="3407">
+      <district name="宜兰" code="340701" />
+    </city>
+    <city name="澎湖" code="3408">
+      <district name="马公" code="340801" />
+      <district name="东吉屿" code="340802" />
+    </city>
+    <city name="嘉义" code="3409">
+      <district name="嘉义" code="340901" />
+      <district name="阿里山" code="340902" />
+      <district name="玉山" code="340903" />
+      <district name="新港" code="340904" />
+    </city>
+    <city name="花莲" code="3410">
+      <district name="花莲" code="341001" />
+    </city>
+    <city name="台东" code="3411">
+      <district name="台东" code="341101" />
+    </city>
+    <city name="基隆" code="3412">
+      <district name="彭佳屿" code="341201" />
+    </city>
+  </province>
+</root>
