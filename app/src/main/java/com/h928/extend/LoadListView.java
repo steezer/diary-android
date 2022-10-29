@@ -1,5 +1,6 @@
 package com.h928.extend;
 
+import android.util.Log;
 import android.content.Context;
 import android.util.AttributeSet;
 import android.view.LayoutInflater;
@@ -13,6 +14,7 @@ import com.h928.view.R;
 public class LoadListView extends ListView implements OnScrollListener{
     View footer;//底部布局
     int totalItemCount;//总数量
+    int firstVisibleItem;//第一个可见的Item
     int lastVisibleItem;//最后一个可见的Item
     boolean isLoading;//正在加载
     ILoadListener iLoadListener;
@@ -40,11 +42,13 @@ public class LoadListView extends ListView implements OnScrollListener{
         footer.findViewById(R.id.load_list_footer).setVisibility(View.GONE);
         this.addFooterView(footer);
         this.setOnScrollListener(this);
+        Log.i("initView","test");
     }
 
     @Override
     public void onScroll(AbsListView view, int firstVisibleItem, int visibleItemCount, int totalItemCount)
     {
+        this.firstVisibleItem=firstVisibleItem;
         this.lastVisibleItem=firstVisibleItem+visibleItemCount;
         this.totalItemCount=totalItemCount;
     }
@@ -52,12 +56,15 @@ public class LoadListView extends ListView implements OnScrollListener{
     @Override
     public void onScrollStateChanged(AbsListView view, int scrollState) {
         //项目显示完毕并且停止滚动
-        if (totalItemCount==lastVisibleItem&&scrollState==SCROLL_STATE_IDLE) {
+        if (totalItemCount==lastVisibleItem && scrollState==SCROLL_STATE_IDLE) {
             if (!isLoading) {
+                Log.i("onScrollStateChanged","Load more...");
                 isLoading=true;
                 footer.findViewById(R.id.load_list_footer).setVisibility(View.VISIBLE);
                 iLoadListener.onLoad();//加载更多数据
             }
+        }else if(firstVisibleItem==0 && scrollState==SCROLL_STATE_IDLE){
+            Log.i("onScrollStateChanged","startFresh121");
         }
     }
 

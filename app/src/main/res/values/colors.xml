@@ -9,8 +9,13 @@
     <color name="searchBackground">#FFFFFF</color>
     <color name="listDivider">#AAAAAA</color>
 
+    <color name="white">#fff</color>
+    <color name="black">#333</color>
+
     <!--外部工具-->
     <color name="pickerTextColor">#FFFFFF</color>
     <color name="pickerBackground">#ba571e</color>
     <color name="pickerSelectColor">#ddFFFFFF</color>
+
+
 </resources>

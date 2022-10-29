@@ -13,6 +13,7 @@ import android.widget.AdapterView;
 
 import com.h928.adapter.ListAdapter;
 import com.h928.extend.LoadListView;
+import com.h928.extend.FlexibleListView;
 import com.h928.util.DbManager;
 import com.h928.view.R;
 
